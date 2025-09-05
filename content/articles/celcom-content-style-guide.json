@@ -1,0 +1,393 @@
+{
+  "data": {
+    "id": 3,
+    "attributes": {
+      "slug": "celcom-content-style-guide",
+      "createdAt": "2022-11-03T10:25:01.961Z",
+      "updatedAt": "2022-12-01T05:33:31.546Z",
+      "publishedAt": "2022-12-01T10:25:03.148Z",
+      "header": {
+        "__component": "header.text",
+        "title": "Beyond look & feel",
+        "subtitle": "A guide to Celcom's Voice & Tone",
+        "description": "",
+        "featuredImage": {
+          "data": null
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.text",
+          "title": "Celcom content style guide",
+          "subtitle": null,
+          "description": "The Celcom Content Style Guide serves as a directory to aid every copy creator for Celcom to be cohesive and align with the overall tone and way of writing of the brand. This ensures that every customer touchpoint and interaction with Celcom is uniform, allowing for a better user experiences."
+        },
+        {
+          "id": 2,
+          "__component": "content.text",
+          "title": "For Celcomers",
+          "subtitle": null,
+          "description": "For Celcom staff, affectionately known as Celcomers, this guide represents our communication style across all platforms. While this guide will mainly focus on English content, some stylistic preferences can also be applied to other languages (e.g. Malay) used on our platforms as we constantly improve accessibility to every Malaysian.<br />&nbsp;<br />This content style guide will cover all the bases in crafting your message the Celcom way: from understanding basic grammar rules to encouraging empathetic messaging to our diverse customer base.<br />&nbsp;<br />This guide is the standard you should apply in your writing for Celcom."
+        },
+        {
+          "id": 3,
+          "__component": "content.text",
+          "title": "Writing Goals and Principles",
+          "subtitle": null,
+          "description": "As the pioneer of Malaysia’s telecommunication industry, our content style constantly evolves according to the times. Our writing goals and principles are aligned with our values of putting the people first as we advance with the latest wave of technology. <br />&nbsp;<br />We create content based on these principles:<br />&nbsp;<br />1. Nurture – We communicate with our customers to build long-lasting relationships. Our language is conversational and friendly, ensuring that empathy is at the forefront of every message.<br />&nbsp;<br />2. Empower – We encourage our customers to understand and maximise the technology they’re using in their daily lives. Our messaging must aim to educate our customers, from newbies to the tech-savvy, or clarify anything related to our services, no matter how complex. <br />&nbsp;<br />3. Respect – We avoid hard-sell, vague or exaggerated language because we respect our customers’ time spent with us. Our message is always clear and straight to the point because maintaining their trust is more important than any single promotion."
+        },
+        {
+          "id": 4,
+          "__component": "content.text",
+          "title": "Voice and Tone",
+          "subtitle": null,
+          "description": "Differentiating voice and tone may be difficult but remember: voice is constant while tone changes according to the context of the messaging.<br />&nbsp;<br />Our voice is confident yet conversational. The Celcom brand is fresh and contemporary so our language must reflect the same. However, as Celcom has a variety of products, the tone, manner and word choice must be adjusted for the target audience.<br />&nbsp;<br />Writing for Celcom Postpaid products – Presenting a family-friendly vibe, the tone is enthusiastic yet easygoing for working adults."
+        },
+        {
+          "id": 5,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Writing for Celcom Postpaid",
+                "alt": "Writing for Celcom Postpaid",
+                "caption": "Writing for Celcom Postpaid",
+                "url": "/uploads/articles/styleguide/1.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 6,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": null,
+          "description": "Writing for Celcom Xpax Prepaid products – Bright and exciting, our communication is dynamic with sprinkles of youthful buzzwords to appeal to a younger audience."
+        },
+        {
+          "id": 7,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Writing for Celcom Xpax Prepaid",
+                "alt": "Writing for Celcom Xpax Prepaid",
+                "caption": "Writing for Celcom Xpax Prepaid",
+                "url": "/uploads/articles/styleguide/2.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 8,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": null,
+          "description": "Writing for Celcom Business – Appealing to experts and doers, our tone is composed and welcoming, offering substantial communication with polish and data."
+        },
+        {
+          "id": 9,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Writing for Celcom Business",
+                "alt": "Writing for Celcom Business",
+                "caption": "Writing for Celcom Business",
+                "url": "/uploads/articles/styleguide/3.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 10,
+          "__component": "content.text",
+          "title": "Word Choices",
+          "subtitle": null,
+          "description": "Word choice is key in setting the tone for each audience. Aside from specific keywords that are part of Celcom’s content format, your word choice can be flexible as long as it fits the tone. <br />&nbsp;<br />For example, when communicating a negative message, use optimistic word choices to soften the tone:<br />&nbsp;<br /><table class='table table-bordered'><thead><tr><th scope='col' class='bg-success w-50'>Preferred</th><th scope='col' class='bg-danger text-light w-50'>Avoid</th></tr></thead><tbody><tr><td>Your download was not successful.</td><td>Your download failed.</td></tr></tbody></table><br />&nbsp;<br />The length of the copy should also be as short as possible, while still delivering a more empathetic message. <br />&nbsp;<br />Familiarise yourself with the local culture, traditions and colloquialisms to respect potential sensitivities, especially when your content uses local languages and dialects.<br />&nbsp;<br /><table class='table table-bordered'><thead><tr><th scope='col' class='bg-success w-50'>Preferred</th><th scope='col' class='bg-danger text-light w-50'>Avoid</th></tr></thead><tbody><tr><td>Anda <i>tidak memenuhi syarat kelayakan</i> pendahuluan kredit.</td><td>Anda <i>tidak layak</i> untuk pendahuluan kredit.</td></tr></tbody></table><br />&nbsp;<br />In the Malay copy example, saying the customer did not fulfil the requirements of a service (“tidak memenuhi syarat kelayakan”) is preferable compared to informing the customer that they are not eligible (“tidak layak”) as the term “layak” has negative connotations.<br />&nbsp;<br />As our customers come from all walks of life, our word choice must convey our people-centric writing goals and principles."
+        },
+        {
+          "id": 11,
+          "__component": "content.text",
+          "title": "Writing to Our Customers",
+          "subtitle": null,
+          "description": "As the pioneering telco service provider with the widest network in Malaysia, our customer base is diverse. So, our content should also reflect this diversity through inclusive and accessible language."
+        },
+        {
+          "id": 12,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Addressing our audience",
+          "description": "When addressing the customer, always use the second-person pronoun “you” and/or using the term “customer”. Remember: the term “Celcomers” refers only to Celcom staff."
+        },
+        {
+          "id": 13,
+          "__component": "content.quote",
+          "quote": "<h5 class='font-italic'>You can now experience ultra-fast 5G connectivity on Celcom's widest network. Please ensure you use a 5G compatible device within the coverage area.<br />&nbsp;<br />You can also use the term “user” when you are writing functional copy related to the products or services.<br />&nbsp;<br />Each user may only register up to 5 prepaid numbers.</h5>"
+        },
+        {
+          "id": 14,
+          "__component": "content.text",
+          "title": "Grammar and Mechanics",
+          "subtitle": "",
+          "description": "On all our platforms, Celcom uses the <a href='https://owl.purdue.edu/owl/subject_specific_writing/journalism_and_journalistic_writing/ap_style.html' target='_blank'>AP style</a> for a basic set of rules to standardise our content style. The AP style ensures a clean, uncluttered approach to writing. We also use UK English across the board.<br />&nbsp;<br /><table class='table table-bordered'><thead><tr><th scope='col' class='bg-success w-50'>UK English Spelling</th><th scope='col' class='bg-danger text-light w-50'>US English Spelling</th></tr></thead><tbody><tr><td>The spelling “maximise” follows the UK spelling.</td><td>The spelling of “sanitizing” is American English. It must be changed to “sanitising”.</td></tr></tbody></table>For more information on how to differentiate between UK and US English, <a href='https://www.oxfordinternationalenglish.com/differences-in-british-and-american-spelling/' target='_blank'>click here</a> to learn more."
+        },
+        {
+          "id": 15,
+          "__component": "content.text",
+          "title": "Style & Formatting",
+          "subtitle": "Customer-facing Language",
+          "description": "Save the technical jargon only for internal documents. Replace unfamiliar jargon with customer-facing language. This means spelling out abbreviations and using more familiar terms or phrases.<br />&nbsp;<br /><table class='table table-bordered'><thead><tr><th scope='col' class='bg-success w-50'>Preferred</th><th scope='col' class='bg-danger text-light w-50'>Avoid</th></tr></thead><tbody><tr><td>Length of Stay</td><td>LOS</td></tr><tr><td>Switch to Celcom</td><td>MNP</td></tr><tr><td>Mobile Number</td><td>MSISDN</td></tr></tbody></table>"
+        },
+        {
+          "id": 16,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Capitalisation",
+          "description": "We use different rules of capitalisation, depending on the type of copy.<br />&nbsp;<br />When writing headers, whether for a website banner or a title of an article, we always use sentence cases for capitalisation."
+        },
+        {
+          "id": 17,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Capitalisation",
+                "alt": "Capitalisation",
+                "caption": "Capitalisation",
+                "url": "/uploads/articles/styleguide/5.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 18,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Sentence case capitalise the first letter of the first word only, apart from proper nouns.<br />&nbsp;<br />However, when it comes to functional copy that appears multiple times, such as CTAs like “Read More”, we use title case instead."
+        },
+        {
+          "id": 19,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Sentence case",
+                "alt": "Sentence case",
+                "caption": "Sentence case",
+                "url": "/uploads/articles/styleguide/6.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 20,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Title case capitalise the first letter of each word, except for articles, short prepositions and conjunctions.<br />&nbsp;<br />While these capitalisation rules are fixed, we allow room for flexibility when it comes to commercial copy. You may use all caps to garner attention to the copy."
+        },
+        {
+          "id": 21,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Title case",
+                "alt": "Title case",
+                "caption": "Title case",
+                "url": "/uploads/articles/styleguide/7.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 22,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "We also capitalise certain terms that are related to the telecommunication industry:<br />&nbsp;<br /><ul><li>Internet</li><li>WiFi</li></ul>"
+        },
+        {
+          "id": 23,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Numbers",
+          "description": "Use numerals for numbers even when you are indicating a single-digit number. However, spell out the number if it begins a sentence.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Numbers",
+                "alt": "Numbers",
+                "caption": "Numbers",
+                "url": "/uploads/articles/styleguide/8.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 24,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Numbers with more than 3 digits should include a comma.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Numbers with more than 3 digits",
+                "alt": "Numbers with more than 3 digits",
+                "caption": "Numbers with more than 3 digits",
+                "url": "/uploads/articles/styleguide/9.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 25,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "You can also use shortened forms, such as “k” (for thousand) and “mil” (for million), for a commercial copy.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Shortened forms",
+                "alt": "Shortened forms",
+                "caption": "Shortened forms",
+                "url": "/uploads/articles/styleguide/10.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 26,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Dates",
+          "description": "When inserting dates for functional copy, such as for billing, use dd/mm/yyyy: 19/04/2022.<br />&nbsp;<br />When inserting dates for commercial copy, such as promotional ads, use Date-Month-Year: 31 December 2022."
+        },
+        {
+          "id": 27,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Money",
+          "description": "If you are writing about money, remember to include “RM” in front of the numerals with no space in between. You can write up to 9 digits, including 2 decimal points.<br />&nbsp;<br />RM1,234,567.89.<br />&nbsp;<br />You can exclude the number of cents if it is 0. On the other hand, if you are writing a value that is less than RM1, you must still include “RM” in the copy.<br />&nbsp;<br />RM20<br />RM0.20"
+        },
+        {
+          "id": 28,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Punctuation",
+          "description": "While your copy should follow the basic grammar rules of punctuation, you can ensure your copy remains short by replacing certain words with punctuation. This only applies to commercial copy so it can be visually engaging.<br />&nbsp;<br />You can replace “and” with “&”.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Punctuation",
+                "alt": "Punctuation",
+                "caption": "Punctuation",
+                "url": "/uploads/articles/styleguide/11.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 29,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Replace “at” with “@”.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Replace “at” with “@”",
+                "alt": "Replace “at” with “@”",
+                "caption": "Replace “at” with “@”",
+                "url": "/uploads/articles/styleguide/12.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 30,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Instead of “per”, use “/”.",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Instead of “per”, use “/”",
+                "alt": "Instead of “per”, use “/”",
+                "caption": "Instead of “per”, use “/”",
+                "url": "/uploads/articles/styleguide/13.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 31,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "Another way to enhance your copy visually is to use punctuation to emphasise your message.<br />&nbsp;<br />Generally, we do not include any punctuation at the end of titles, headings and subheadings, except for question marks (?) and exclamation marks (!).",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Use punctuation to emphasise your message",
+                "alt": "Use punctuation to emphasise your message",
+                "caption": "Use punctuation to emphasise your message",
+                "url": "/uploads/articles/styleguide/14.png"
+              }
+            }
+          }
+        },
+        {
+          "id": 32,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "",
+          "description": "",
+          "image": {
+            "data": {
+              "attributes": {
+                "name": "Use punctuation to emphasise your message",
+                "alt": "Use punctuation to emphasise your message",
+                "caption": "Use punctuation to emphasise your message",
+                "url": "/uploads/articles/styleguide/15.png"
+              }
+            }
+          }
+        }
+      ],
+      "author": {
+        "data": {
+          "id": 6,
+          "attributes": {
+            "firstName": "Vimalesvaren",
+            "lastName": "Palasekaran",
+            "role": "Digital Content"
+          }
+        }
+      },
+      "category": {
+        "data": {
+          "id": 1,
+          "attributes": {
+            "name": "style guide",
+            "createdAt": "2022-03-15T02:45:16.994Z",
+            "updatedAt": "2022-03-15T02:45:18.919Z",
+            "publishedAt": "2022-03-15T02:45:18.916Z"
+          }
+        }
+      }
+    }
+  }
+}

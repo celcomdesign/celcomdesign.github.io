@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "slug": "home",
+      "site": "design.celcom.com.my",
+      "header": {
+        "__component": "header.list",
+        "title": "",
+        "list": {
+          "data": [
+            {
+              "id": 1,
+              "item": "<span style='display: inline-block' classname='animate__animated animate__fadeInUp animate__faster'>Connecting&nbsp;</span>"
+            },
+            {
+              "id": 2,
+              "item": "<span style='display: inline-block' classname='animate__animated animate__fadeInUp animate__fast'>people —&nbsp;</span>"
+            },
+            {
+              "id": 3,
+              "item": "<span style='display: inline-block' className='animate__animated animate__fadeInUp'>one design&nbsp;</span>"
+            },
+            {
+              "id": 4,
+              "item": "<span style='display: inline-block' className='animate__animated animate__fadeInUp animate__slow'>at a time</span>"
+            }
+          ]
+        },
+        "description": "",
+        "featuredImage": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "header.png",
+              "alt": "Celcom Design",
+              "width": 524,
+              "height": 503,
+              "url": "/uploads/pages/home/header.png"
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.section",
+          "title": "Designing for the people today and tomorrow",
+          "description": "Behind Celcom’s signature digital blue is a fun group of people who put the customer first in all that we do.<br />&nbsp;<br />We string together visual ideas and build designs that ease the everyday interactions of our customers and envision the future that has yet to arrive.",
+          "linkText": "Take a look at what we do",
+          "linkUrl": "/work",
+          "image": {
+            "data": [
+              {
+                "id": 2,
+                "attributes": {
+                  "name": "app--1.png",
+                  "alt": "Celcom Life",
+                  "width": 286,
+                  "height": 555,
+                  "url": "/uploads/pages/home/app--1.png"
+                }
+              },
+              {
+                "id": 3,
+                "attributes": {
+                  "name": "app--2.png",
+                  "alt": "Celcom Life",
+                  "width": 286,
+                  "height": 555,
+                  "url": "/uploads/pages/home/app--2.png"
+                }
+              },
+              {
+                "id": 4,
+                "attributes": {
+                  "name": "app--3.png",
+                  "alt": "Celcom Life",
+                  "width": 286,
+                  "height": 555,
+                  "url": "/uploads/pages/home/app--3.png"
+                }
+              }
+            ]
+          }
+        }, 
+        {
+          "id": 2,
+          "__component": "content.section",
+          "title": "Hello there",
+          "description": "We are a fun ragtag team with one goal: continuing Celcom’s historied legacy in bridging communications and solidifying relationships.<br />&nbsp;<br />We love dissecting design ideas over ice cream and breaking out into planks after powering through group meetings.",
+          "linkText": "This is our story",
+          "linkUrl": "/about",
+          "image": {
+            "data": [
+              {
+                "id": 5,
+                "attributes": {
+                  "name": "team-left.png",
+                  "alt": "Celcom Design",
+                  "width": 632,
+                  "height": 310,
+                  "url": "/uploads/pages/home/team-left.png"
+                }
+              },
+              {
+                "id": 6,
+                "attributes": {
+                  "name": "team-right.png",
+                  "alt": "Celcom Design",
+                  "width": 632,
+                  "height": 310,
+                  "url": "/uploads/pages/home/team-right.png"
+                }
+              }
+            ]
+          }
+        }, 
+        {
+          "id": 3,
+          "__component": "content.section",
+          "title": "Embracing our beliefs",
+          "description": "We take on today’s biggest problems because we believe a better world is possible. We see the world as it could be, and we strive to make it a reality.",
+          "linkText": "Things we think about",
+          "linkUrl": "/articles",
+          "image": {
+            "data": null
+          }
+        }
+      ]
+    }
+  },
+  "meta": {}
+}

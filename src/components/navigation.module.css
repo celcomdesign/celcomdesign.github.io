@@ -1,0 +1,34 @@
+.tab {
+  overflow: auto; /* TODO : Need to fix in Prisma bootstrap */
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+.link {
+  font-size: 1.5rem;
+}
+
+.link:hover,
+:global(.nav-link.active) {
+  background-color: transparent !important;
+}
+
+@media (max-width: 991.98px) {
+  :global(.navbar-global.collapse), :global(.navbar-global.collapsing) {
+    height: 2.875rem;
+  }
+
+  :global(.navbar.fixed-top .navbar-tab li:first-child:nth-last-child(3)~li:last-child) {
+    margin-bottom: calc(100vh - 300px);
+  }
+}
+
+@media (min-width: 992px) {
+  .tab {
+    padding-bottom: 0 !important;
+  }
+
+  .link {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,777 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "slug": "celcom-life-3.0",
+      "createdAt": "2022-03-15T02:51:53.360Z",
+      "updatedAt": "2022-09-26T07:34:48.009Z",
+      "publishedAt": "2022-03-15T02:51:55.044Z",
+      "header": {
+        "__component": "header.text",
+        "title": "Celcom Life 3.0",
+        "subtitle": "A revamp project intended to kill 3 birds with one stone",
+        "description": "",
+        "featuredImage": {
+          "data": {
+            "id": 47,
+            "attributes": {
+              "name": "Celcom Life 3.0",
+              "alt": "Celcom Life 3.0",
+              "caption": "Celcom Life 3.0",
+              "width": 1920,
+              "height": 1080,
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 190.59,
+              "url": "/uploads/articles/celcom-life/header.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T07:48:09.099Z",
+              "updatedAt": "2022-03-17T07:48:09.099Z"
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.text",
+          "title": "Prologue",
+          "subtitle": "About Celcom",
+          "description": "Celcom is an organisation with 3,000+ employees committed to bringing forward the national agenda of developing the capacities and capabilities of Malaysian society. Celcom has the widest network in Malaysia with a population coverage of 95% for 2G, 93% for 3G and 90% for 4G/LTE networks. It provides both prepaid and postpaid mobile and digital services with close to 9.1 million subscribers."
+        },
+        {
+          "id": 2,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": "My Journey with Celcom",
+          "description": "I landed as a Product Designer at Celcom in July 2018. It was an exciting time when Celcom was undergoing a substantial digital transformation (with IBMiX), introducing and developing multiple digital products (Portal, App, e-Commerce, Retail). <br />&nbsp;<br />As a Product Designer assigned to the mobile application track, my initial primary scope was to lead in participatory requirements gathering sessions and analyse stakeholder interviews to understand key success factors for a project or pursuit, and translate them into functional solutions (journeys, screen flows, and low and high fidelity prototypes). <br />&nbsp;<br />While we entered the post-revamp era along with digital transformation for the company’s mobile app, Celcom life 2.0 quickly received cosmetic (with dashboard and pay bill journey overhaul) upgrades over 1.0. Not long after BAU with mobile application track, familiarising myself with how business and the app works, I came across challenges that slowed (and blocked) us from becoming a great product."
+        },
+        {
+          "id": 2,
+          "__component": "content.image",
+          "caption": "Celcom Life 1.0",
+          "image": {
+            "data": {
+              "id": 33,
+              "attributes": {
+                "name": "Celcom Life 1.0",
+                "alt": "Celcom Life 1.0",
+                "caption": "Celcom Life 1.0",
+                "width": 904,
+                "height": 393,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 57.24,
+                "url": "/uploads/articles/celcom-life/2.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-16T08:35:19.448Z",
+                "updatedAt": "2022-03-16T08:35:19.448Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "__component": "content.image",
+          "caption": "Celcom Life 2.0",
+          "image": {
+            "data": {
+              "id": 34,
+              "attributes": {
+                "name": "Celcom Life 2.0",
+                "alt": "Celcom Life 2.0",
+                "caption": "Celcom Life 2.0",
+                "width": 904,
+                "height": 393,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 37.1,
+                "url": "/uploads/articles/celcom-life/3.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-16T08:35:49.212Z",
+                "updatedAt": "2022-03-16T08:35:49.212Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "__component": "content.text",
+          "title": "Challenge #1:",
+          "subtitle": "Business and Design challenges: Celcom Life 2.0 itself",
+          "description": "IBMiX team was chasing deadlines with the 2.0 revamp; the revamp was built on top of legacy in hybrid mode, most of the features were just reskin and mirrored over 1.0. This exposed the app to multiple threats:"
+        },
+        {
+          "id": 1,
+          "__component": "content.quote",
+          "quote": "<h3>Performance</h3><ul><li>Stitch and patch on top of legacy caused sluggishness and received a lot of complaints from users (though the lag was not caused by design, it is part of the experience).</li></ul><h3>Scalability</h3><ul><li>Dial-based non-scrollable dashboard is clean, aesthetic, and basic; it has limitations to scale (e.g: each time a new requirement comes in, entries from the bubble button had to give way; business always had to fight for the only real estate ).</li><li>And because it failed to cater to the requirements, the decline stage of the product life cycle hit just after 6 months of deployment and struggled in hitting the expected in-app transaction KPI.</li></ul><h3>Lack of innovation</h3><ul><li>The revamp focused too much on UI and cosmetics, while usability issues were not treated properly, leaving a huge room for improvements (obtained from qualitative and quantitative findings which I will further elaborate below).</li></ul>"
+        },
+        {
+          "id": 14,
+          "__component": "content.text",
+          "title": "Challenge #2:",
+          "subtitle": "Old ways of working + low UX maturity",
+          "description": "Celcom as a 30-year-old telco was at its early stage of transformation; most verticals (especially business units) were too embedded in a waterfall way of working. The digital team, as the ONLY department that adopted the Agile way of working, faced difficulty and resistance working with other verticals. There was low (or no) design maturity throughout the organisation. Again, due to deadline chasing, there was not enough design advocation and education done. <br />&nbsp;<br />Even though the IBMiX team introduced personas to help put Business Owners in users’ shoes, most owners ignored the importance and value of user experience. This made it particularly tough for the Agile team to sprint and push through user-friendly journeys when we always got “we/business want...” over “our customers need...” when it came to requirement discussions."
+        },
+        {
+          "id": 4,
+          "__component": "content.image",
+          "caption": "Personas, as crafted by the IBMiX team",
+          "image": {
+            "data": {
+              "id": 45,
+              "attributes": {
+                "name": "Personas, as crafted by the IBMiX team",
+                "alt": "Personas, as crafted by the IBMiX team",
+                "caption": "Personas, as crafted by the IBMiX team",
+                "width": 5760,
+                "height": 3240,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 898.1,
+                "url": "/uploads/articles/celcom-life/4.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-17T06:39:25.249Z",
+                "updatedAt": "2022-03-17T06:39:25.249Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 13,
+          "__component": "content.text",
+          "title": "Challenge #3:",
+          "subtitle": "Design team structure and operations",
+          "description": "From the mobile application track, I observed that the design team structure and operation in an Agile setup within a traditional organisation was weird and rather awkward. <br />&nbsp;<br />Each designer was assigned to a dysfunctional team that ran different design processes, using different design tools. This resulted in different maturity and quality towards design outputs, even with (in-use) design system; worse, it widened the gap in product design consistency."
+        },
+        {
+          "id": 3,
+          "__component": "content.image",
+          "caption": "High-level team structure",
+          "image": {
+            "data": {
+              "id": 46,
+              "attributes": {
+                "name": "High-level team structure",
+                "alt": "High-level team structure",
+                "caption": "High-level team structure",
+                "width": 5760,
+                "height": 3240,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 280.96,
+                "url": "/uploads/articles/celcom-life/5.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-17T06:40:53.634Z",
+                "updatedAt": "2022-03-17T06:40:53.634Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "__component": "content.quote",
+          "quote": "<h2>My reflection as a product designer</h2><h5>Celcom Life and the digital products have, and deserve a greater possibility, I need to help unlock them.</h5><h4>“I can propose a revamp within my vertical to help fix them all (can I?)”</h4>"
+        },
+        {
+          "id": 19,
+          "__component": "content.text",
+          "title": "Putting thoughts into action",
+          "subtitle": null,
+          "description": "This was (sort of) an inside-out kinda plan. <br />&nbsp;<br />1. First, I needed to put on a cool proposal to justify the need for revamping (again) only after a year of the previous “revamp”. <br />&nbsp;<br />2. Drive UX maturity along with the revamp. <br />&nbsp;<br />3. Introduce and enforce a new design process that I can validate through the revamp and prove it fits the organisation’s working module. <br />&nbsp;<br />They all seemed impossible but my dedication and determination to improve the situation persuaded me to give it a shot anyway."
+        },
+        {
+          "id": 5,
+          "__component": "content.image",
+          "caption": "Action plan",
+          "image": {
+            "data": {
+              "id": 67,
+              "attributes": {
+                "name": "Action plan",
+                "alt": "Action plan",
+                "caption": "Action plan",
+                "width": 3240,
+                "height": 3006,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 175.21,
+                "url": "/uploads/articles/celcom-life/6.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:15:34.848Z",
+                "updatedAt": "2022-03-19T14:15:34.848Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 20,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": "Envisioning 3.0",
+          "description": "The plan was to start with a proposal of a 3.0 revamp that was strong, solid, and unquestionable by all means. I took one small step at a time, starting with concept and prototype creation on top of the existing 2.0."
+        },
+        {
+          "id": 6,
+          "__component": "content.image",
+          "caption": "Old sketches that recorded my thoughts and vision towards 3.0",
+          "image": {
+            "data": {
+              "id": 68,
+              "attributes": {
+                "name": "Old sketches that recorded my thoughts and vision towards 3.0",
+                "alt": "Old sketches that recorded my thoughts and vision towards 3.0",
+                "caption": "Old sketches that recorded my thoughts and vision towards 3.0",
+                "width": 5760,
+                "height": 2262,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 2761.06,
+                "url": "/uploads/articles/celcom-life/7.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:17:19.139Z",
+                "updatedAt": "2022-03-19T14:17:19.139Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 21,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": null,
+          "description": "Alongside, countless studies on Adobe Analytic and Verbatim Curation were done (take note, all the effort and amount of work done without knowing the plan will still come through for you!) to understand motivation and frustration from users’ standpoint while defining gaps and room for improvements."
+        },
+        {
+          "id": 7,
+          "__component": "content.image",
+          "caption": "Sample of Adobe Analytics: Understanding traffic of the top in-app features | Understanding specific app journey drop-offs | To make further improvements",
+          "image": {
+            "data": {
+              "id": 69,
+              "attributes": {
+                "name": "Sample of Adobe Analytics: Understanding traffic of the top in-app features | Understanding specific app journey drop-offs | To make further improvements",
+                "alt": "Sample of Adobe Analytics: Understanding traffic of the top in-app features | Understanding specific app journey drop-offs | To make further improvements",
+                "caption": "Sample of Adobe Analytics: Understanding traffic of the top in-app features | Understanding specific app journey drop-offs | To make further improvements",
+                "width": 5760,
+                "height": 5523,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1333.53,
+                "url": "/uploads/articles/celcom-life/8.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:18:46.500Z",
+                "updatedAt": "2022-03-19T14:18:46.500Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 8,
+          "__component": "content.image",
+          "caption": "Sample of Verbatim Curation: Extracting comments that pinpoint specific features | Deep-diving into journey problems | Seek improvements",
+          "image": {
+            "data": {
+              "id": 70,
+              "attributes": {
+                "name": "Sample of Verbatim Curation: Extracting comments that pinpoint specific features | Deep-diving into journey problems | Seek improvements",
+                "alt": "Sample of Verbatim Curation: Extracting comments that pinpoint specific features | Deep-diving into journey problems | Seek improvements",
+                "caption": "Sample of Verbatim Curation: Extracting comments that pinpoint specific features | Deep-diving into journey problems | Seek improvements",
+                "width": 5760,
+                "height": 3228,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1552.55,
+                "url": "/uploads/articles/celcom-life/9.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:19:26.847Z",
+                "updatedAt": "2022-03-19T14:19:26.847Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 9,
+          "__component": "content.image",
+          "caption": "Multiple iterations of impression and prototype building | All impressions were built in Adobe XD over Sketch (standard design tool across design chapter that time) | #disrupt to rebuild",
+          "image": {
+            "data": {
+              "id": 71,
+              "attributes": {
+                "name": "Multiple iterations of impression and prototype building | All impressions were built in Adobe XD over Sketch (standard design tool across design chapter that time) | #disrupt to rebuild",
+                "alt": "Multiple iterations of impression and prototype building | All impressions were built in Adobe XD over Sketch (standard design tool across design chapter that time) | #disrupt to rebuild",
+                "caption": "Multiple iterations of impression and prototype building | All impressions were built in Adobe XD over Sketch (standard design tool across design chapter that time) | #disrupt to rebuild",
+                "width": 5760,
+                "height": 1962,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 253.94,
+                "url": "/uploads/articles/celcom-life/10.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:21:05.906Z",
+                "updatedAt": "2022-03-19T14:21:05.906Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 22,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": "UX Maturity up-lifting plan",
+          "description": "There are 6 different stages when it comes to Design Maturity and Celcom was at stage 2 at that time and needed an uplift. <br />&nbsp;<br />Based on Factors in UX Maturity ****by Nielsen Norman Group (basically where I got the spark for how a revamp can help overcome all the challenges), I outlined the key pillars and initiatives that needed to be done to tick the boxes to achieve UX maturity:"
+        },
+        {
+          "id": 10,
+          "__component": "content.image",
+          "caption": "Stages of UX Maturity | Nielsen Norman Group",
+          "image": {
+            "data": {
+              "id": 72,
+              "attributes": {
+                "name": "Stages of UX Maturity | Nielsen Norman Group",
+                "alt": "Stages of UX Maturity | Nielsen Norman Group",
+                "caption": "Stages of UX Maturity | Nielsen Norman Group",
+                "width": 5760,
+                "height": 3444,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 385.37,
+                "url": "/uploads/articles/celcom-life/11.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:22:39.139Z",
+                "updatedAt": "2022-03-19T14:22:39.139Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 1,
+          "__component": "content.list",
+          "description": "<strong>Vision:</strong> bring maturity up to stage 5<br />&nbsp;<br /><strong>Guidance:</strong> roadmap",
+          "image": {
+            "data": {
+              "id": 63,
+              "attributes": {
+                "name": "Set strategy",
+                "alt": "Set strategy",
+                "caption": "Set strategy",
+                "width": 3240,
+                "height": 3006,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 165.85,
+                "url": "/uploads/articles/celcom-life/12.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T09:16:20.019Z",
+                "updatedAt": "2022-03-19T09:16:20.019Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 2,
+          "__component": "content.list",
+          "description": "<strong>Operation and process:</strong> alignment<br />&nbsp;<br /><strong>Consistency assurance:</strong> tools, design system, documentation",
+          "image": {
+            "data": {
+              "id": 64,
+              "attributes": {
+                "name": "Shift culture",
+                "alt": "Shift culture",
+                "caption": "Shift culture",
+                "width": 3240,
+                "height": 3006,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 161.1,
+                "url": "/uploads/articles/celcom-life/13.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T09:17:15.649Z",
+                "updatedAt": "2022-03-19T09:17:15.649Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 3,
+          "__component": "content.list",
+          "description": "<strong>Design onboarding:</strong> design intro sessions, design workshops<br />&nbsp;<br /><strong>Enforcement:</strong> user story crafting, story prioritisation",
+          "image": {
+            "data": {
+              "id": 65,
+              "attributes": {
+                "name": "Craft process",
+                "alt": "Craft process",
+                "caption": "Craft process",
+                "width": 3240,
+                "height": 3006,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 158.03,
+                "url": "/uploads/articles/celcom-life/14.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T09:18:24.734Z",
+                "updatedAt": "2022-03-19T09:18:24.734Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 4,
+          "__component": "content.list",
+          "description": "<strong>Measurement:</strong> metrics, pre-post design implementation<br />&nbsp;<br /><strong>Continuous improvement:</strong> UX debt, design showcase",
+          "image": {
+            "data": {
+              "id": 66,
+              "attributes": {
+                "name": "Outcome",
+                "alt": "Outcome",
+                "caption": "Outcome",
+                "width": 3240,
+                "height": 3006,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 156.43,
+                "url": "/uploads/articles/celcom-life/15.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T09:19:03.429Z",
+                "updatedAt": "2022-03-19T09:19:03.429Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 23,
+          "__component": "content.text",
+          "title": "",
+          "subtitle": "Proposal of the idea",
+          "description": "I am grateful to have received the blessing from my Head of Design, Lim Zee King, and the Head of Mobile App at that time, Chin Wye Jin to further pursue the plan.<br />&nbsp;<br />The Head of Mobile App assisted in filling up the improvement plans for app performance + technical scalability. Together, we put on a 360 proposal to Chief Digital Officer Dave Morrow."
+        },
+        {
+          "id": 11,
+          "__component": "content.image",
+          "caption": null,
+          "image": {
+            "data": {
+              "id": 73,
+              "attributes": {
+                "name": "Inclusive Revamp Plan for 3.0",
+                "alt": "Inclusive Revamp Plan for 3.0",
+                "caption": "Inclusive Revamp Plan for 3.0",
+                "width": 5760,
+                "height": 3945,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 592.48,
+                "url": "/uploads/articles/celcom-life/16.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:24:19.390Z",
+                "updatedAt": "2022-03-19T14:24:19.390Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 30,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": null,
+          "description": "The proposal was 360 except for the budgeting part (which is beyond my pay grade). We were being challenged left right up down, from necessity -> practicality -> impacts towards all aspects. The Head of Design and Head of Mobile were so persistent in unblocking everything to help surface the plan to the CEO."
+        },
+        {
+          "id": 18,
+          "__component": "content.image",
+          "caption": "The two giants who supported the initiatives throughout",
+          "image": {
+            "data": {
+              "id": 74,
+              "attributes": {
+                "name": "Head of Design",
+                "alt": "Head of Design",
+                "caption": "Head of Design",
+                "width": 3240,
+                "height": 1410,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 671.39,
+                "url": "/uploads/articles/celcom-life/17.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:26:24.751Z",
+                "updatedAt": "2022-03-19T14:26:24.751Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 19,
+          "__component": "content.image",
+          "caption": "Presentation to CEO and SteerCo (sponsors for the revamp)",
+          "image": {
+            "data": {
+              "id": 75,
+              "attributes": {
+                "name": "Head of Mobile",
+                "alt": "Head of Mobile",
+                "caption": "Head of Mobile",
+                "width": 5760,
+                "height": 3048,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 1875.02,
+                "url": "/uploads/articles/celcom-life/18.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:26:57.416Z",
+                "updatedAt": "2022-03-19T14:26:57.416Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 31,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": null,
+          "description": "The session went really well and was encouraging. We got our buy-in a few months after the presentation (a lot of justifications with various verticals), and were finally able to put it into action."
+        },
+        {
+          "id": 32,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": "The Revamp",
+          "description": "To keep this article short, I will be deep-diving into the revamp design processes in another article. <br />&nbsp;<br />Click here if you would like to find out more! (not compiled for the time being, coming soon)"
+        },
+        {
+          "id": 33,
+          "__component": "content.text",
+          "title": "Outcome #1",
+          "subtitle": "Celcom Life 3.0",
+          "description": "With the right execution for the revamp process (In Design: emphasise -> define -> ideate -> prototype -> validate), we helped elevate the app experience within the key pillars (performance, scalability, innovation). It led Celcom Life 3.0 towards tremendous results after launching in 2020. <br />&nbsp;<br />One of the key results that can be directly related to UX/Design is our Apple App Store and Google Play Store rating."
+        },
+        {
+          "id": 21,
+          "__component": "content.image",
+          "caption": "App Store rating as of 15 Jan 2022",
+          "image": {
+            "data": {
+              "id": 76,
+              "attributes": {
+                "name": "App Store rating as of 15 Jan 2022",
+                "alt": "App Store rating as of 15 Jan 2022",
+                "caption": "App Store rating as of 15 Jan 2022",
+                "width": 5760,
+                "height": 2382,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 200.97,
+                "url": "/uploads/articles/celcom-life/19.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:31:06.709Z",
+                "updatedAt": "2022-03-19T14:31:06.709Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 20,
+          "__component": "content.image",
+          "caption": "Playstore rating as of 15 Jan 2022",
+          "image": {
+            "data": {
+              "id": 77,
+              "attributes": {
+                "name": "Playstore rating as of 15 Jan 2022",
+                "alt": "Playstore rating as of 15 Jan 2022",
+                "caption": "Playstore rating as of 15 Jan 2022",
+                "width": 5760,
+                "height": 2160,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 108.18,
+                "url": "/uploads/articles/celcom-life/20.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:31:35.192Z",
+                "updatedAt": "2022-03-19T14:31:35.192Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 34,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": null,
+          "description": "Although we faced resistance (user adaptability) in the early stage of the launch, with continuous in-app onboarding and education, the new app eventually received good compliments on user-friendliness and this reflected in the high App Store and Play Store rating compared to the previous version. (the previous version was at 2.1 ~ 2.8). <br />&nbsp;<br />The app tNPS score soared by +5 points too."
+        },
+        {
+          "id": 22,
+          "__component": "content.image",
+          "caption": "Other business-related (that couldn’t happen without design and why) results besides App Store rating and tNPS:",
+          "image": {
+            "data": {
+              "id": 78,
+              "attributes": {
+                "name": "Other business-related (that couldn’t happen without design and why) results besides App Store rating and tNPS:",
+                "alt": "Other business-related (that couldn’t happen without design and why) results besides App Store rating and tNPS:",
+                "caption": "Other business-related (that couldn’t happen without design and why) results besides App Store rating and tNPS:",
+                "width": 2214,
+                "height": 2409,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 164.99,
+                "url": "/uploads/articles/celcom-life/21.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:32:29.787Z",
+                "updatedAt": "2022-03-19T14:32:29.787Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 23,
+          "__component": "content.image",
+          "caption": "Conversion results post 3.0. Will share a separate article on how Design helped drive all these.",
+          "image": {
+            "data": {
+              "id": 79,
+              "attributes": {
+                "name": "Conversion results post 3.0. Will share a separate article on how Design helped drive all these.",
+                "alt": "Conversion results post 3.0. Will share a separate article on how Design helped drive all these.",
+                "caption": "Conversion results post 3.0. Will share a separate article on how Design helped drive all these.",
+                "width": 5760,
+                "height": 2160,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 174.57,
+                "url": "/uploads/articles/celcom-life/22.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:33:19.976Z",
+                "updatedAt": "2022-03-19T14:33:19.976Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 35,
+          "__component": "content.text",
+          "title": "Outcome #2",
+          "subtitle": "Organisation-wide UX Maturity",
+          "description": "We were able to uplift the organisation’s UX maturity to 3 - 4 ish from 2. A revamp project itself certainly can’t have that kind of impact, what’s important is the ripple effect that comes along after showing the results of how design can bring ACTUAL value to the business. <br />&nbsp;<br />With the new guiding principle (Design for Availability, Scalability, and Maintainability) aligning with the pillars’ enhancement, we were able to bring (most of) the stakeholders on the same page, strike a sweet balance between user needs and business goals while carrying on design activities alongside the 3.0 revamp process."
+        },
+        {
+          "id": 24,
+          "__component": "content.image",
+          "caption": "Stages of UX Maturity",
+          "image": {
+            "data": {
+              "id": 72,
+              "attributes": {
+                "name": "Stages of UX Maturity",
+                "alt": "Stages of UX Maturity",
+                "caption": "Stages of UX Maturity",
+                "width": 5760,
+                "height": 3444,
+                "ext": ".png",
+                "mime": "image/png",
+                "size": 385.37,
+                "url": "/uploads/articles/celcom-life/11.png",
+                "previewUrl": null,
+                "provider": "local",
+                "provider_metadata": null,
+                "createdAt": "2022-03-19T14:22:39.139Z",
+                "updatedAt": "2022-03-19T14:22:39.139Z"
+              }
+            }
+          }
+        },
+        {
+          "id": 36,
+          "__component": "content.text",
+          "title": null,
+          "subtitle": null,
+          "description": "The 3.0 revamp set a strong benchmark for the development (& design) processes, assuring consistency and driving results. It gave confidence and a strong shot for the senior management to further pursue a lean and agile (of course a more user and design-centric) way of working across the organisation, and later on, introduced a GTM module for a faster go-to-market pace with business. <br />&nbsp;<br />Celcom is at the stage where we want to achieve consistency over efficiency and performance."
+        },
+        {
+          "id": 37,
+          "__component": "content.text",
+          "title": "Outcome #3",
+          "subtitle": "Design Team",
+          "description": "TBH, the 3.0 revamp didn’t fully lead to an expected outcome for the design team. <br />&nbsp;<br />Although a complete design process was introduced and proven to work with the 3.0 revamp, we had very limited time for the enforcement. It took us some time to build up the Design System 2.0 to move everyone towards the new process, and not long after that, we had to restructure and repurpose some designers to serve the GTM module. This widened the design team’s gap in terms of purpose, scope, and deliveries."
+        },
+        {
+          "id": 38,
+          "__component": "content.text",
+          "title": "Epilogue",
+          "subtitle": null,
+          "description": "This was one of the most thrilling and interesting projects I embarked on (by myself) in Celcom. I am grateful to have been given the trust and empowerment to realise this revamp plan. <br />&nbsp;<br />Along the way, I received full exposure to end-to-end app development, which further helped me especially when I needed to convey my thoughts and ideas to multiple parties in a discussion (business, designers, developers, QA, SA). I am now able to speak their language and make meetings more efficient. <br />&nbsp;<br />Out of the digital team, I have built trust with various business stakeholders. I learned business and numbers from them, and this made my design proposal more inclusive and persuasive. <br />&nbsp;<br />Another key thing I learnt is, to prove design values in business we need to be persistent (the way of work, the design method we use, the continuous advocation), and we should never compromise with any parties. <br />&nbsp;<br />And that is how I was selected as an Axiata Champion 2021 for Above and Beyond."
+        }
+      ],
+      "author": {
+        "data": {
+          "id": 27,
+          "attributes": {
+            "firstName": "Ryann",
+            "lastName": "Lim",
+            "role": "UX Design Chapter"
+          }
+        }
+      },
+      "category": {
+        "data": {
+          "id": 3,
+          "attributes": {
+            "name": "case studies",
+            "createdAt": "2022-03-15T02:45:48.655Z",
+            "updatedAt": "2022-03-17T08:40:45.730Z",
+            "publishedAt": "2022-03-17T08:40:45.727Z"
+          }
+        }
+      }
+    }
+  },
+  "meta": {}
+}

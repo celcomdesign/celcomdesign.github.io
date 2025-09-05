@@ -1,0 +1,77 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "copyright": "All views, posts and opinions shared are our own, Celcom Design.\nUnless they are quotes, retweets, or links, natch.\n\n<br />&nbsp;<br />\n\nCopyright 2021 Celcom Axiata Berhad [167469-A]. All Rights Reserved.",
+      "footerTitle": "Interested to join us?",
+      "buttonText": "Career @Celcom",
+      "buttonLink": "https://career.celcom.com.my/",
+      "prismaText": " Prisma @Celcom",
+      "prismaLink": "http://prisma-beta.celcom.com.my/",
+      "createdAt": "2022-07-14T15:35:39.550Z",
+      "updatedAt": "2022-09-27T07:55:07.664Z",
+      "publishedAt": "2022-07-15T03:56:51.631Z",
+      "funFact": [
+        {
+          "id": 1,
+          "factList": "Really, build whatever you want."
+        },
+        {
+          "id": 2,
+          "factList": "The shapes you see in this web representing each one of the components in our design system."
+        },
+        {
+          "id": 3,
+          "factList": "Yes, we do eat, sleep and snore."
+        }
+      ],
+      "footerImage": {
+        "data": {
+          "id": 113,
+          "attributes": {
+            "name": "dtw-footer.png",
+            "alternativeText": "dtw-footer.png",
+            "caption": "dtw-footer.png",
+            "width": 574,
+            "height": 556,
+            "formats": {
+              "small": {
+                "ext": ".png",
+                "url": "/uploads/small_dtw_footer_d268e5a84d.png",
+                "hash": "small_dtw_footer_d268e5a84d",
+                "mime": "image/png",
+                "name": "small_dtw-footer.png",
+                "path": null,
+                "size": 289.52,
+                "width": 500,
+                "height": 484
+              },
+              "thumbnail": {
+                "ext": ".png",
+                "url": "/uploads/thumbnail_dtw_footer_d268e5a84d.png",
+                "hash": "thumbnail_dtw_footer_d268e5a84d",
+                "mime": "image/png",
+                "name": "thumbnail_dtw-footer.png",
+                "path": null,
+                "size": 40.62,
+                "width": 161,
+                "height": 156
+              }
+            },
+            "hash": "dtw_footer_d268e5a84d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 98.34,
+            "url": "/uploads/dtw_footer_d268e5a84d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "createdAt": "2022-09-02T06:18:41.794Z",
+            "updatedAt": "2022-09-26T07:12:42.569Z"
+          }
+        }
+      }
+    }
+  },
+  "meta": {}
+}

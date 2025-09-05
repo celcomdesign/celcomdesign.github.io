@@ -1,0 +1,19 @@
+.footer {
+  overflow: hidden;
+  padding: 10rem 0 2.5rem;
+  position: relative;
+  z-index: 101;
+}
+
+.footer:after {
+  background-color: #f1f9ff;
+  transform: skewY(5deg);
+  transform-origin: bottom left;
+  content: ' ';
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+}

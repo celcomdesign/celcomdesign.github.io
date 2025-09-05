@@ -1,0 +1,172 @@
+{
+  "data": {
+    "id": 2,
+    "attributes": {
+      "slug": "work",
+      "site": "design.celcom.com.my",
+      "header": {
+        "__component": "header.text",
+        "title": "A new beginning&nbsp;<br />for CX & UX",
+        "description": "Gone were the days of smoke signals and handwritten letters. But communication is still a visual game. With every pop-up message to touch screen interface, we aspire to enhance each platform for the ease and convenience of our customers. This is our process of crafting your journey.",
+        "featuredImage": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "pattern.png",
+              "alt": "Design Pattern",
+              "url": "/uploads/pages/work/pattern.png"
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.list",
+          "title": "",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "id": 1,
+                "title": "Relationship Level",
+                "description": "Providing an overall positive experience for our customers from the start and every step of the way.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 2,
+                      "attributes": {
+                        "name": "icon-expressive--charity.png",
+                        "alt": "Relationship Level",
+                        "url": "/uploads/pages/work/icon-expressive--charity.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 2,
+                "title": "Journey Level",
+                "description": "Refining interactions with our customers at every touchpoint of the journey for a seamless experience.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 3,
+                      "attributes": {
+                        "name": "icon-expressive--high-speed.png",
+                        "alt": "Journey Level",
+                        "url": "/uploads/pages/work/icon-expressive--high-speed.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 3,
+                "title": "Interaction Level",
+                "description": "Ensuring that our customers achieve specific goals with their desired outcomes at every interaction.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 4,
+                      "attributes": {
+                        "name": "icon-expressive--self-service.png",
+                        "alt": "Interaction Level",
+                        "url": "/uploads/pages/work/icon-expressive--self-service.png"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "__component": "content.quote",
+          "caption": "Enhancing everyday life across touch points"
+        },
+        {
+          "id": 3,
+          "__component": "content.section",
+          "title": "Celcom Life",
+          "subtitle": "",
+          "description": "The design decision made by both side would have ripple effect across each other. Both need to work hand in hand to ensure great experience is delivered, and often enough to agree on direction for a particular journey",
+          "linkText": "Read our process",
+          "linkUrl": "/article/celcom-life-3.0",
+          "image": {
+            "data": [
+              {
+                "id": 2,
+                "attributes": {
+                  "name": "cla--1.png",
+                  "alt": "Celcom Life App",
+                  "url": "/uploads/pages/work/cla--1.png"
+                }
+              },
+              {
+                "id": 3,
+                "attributes": {
+                  "name": "cla--2.png",
+                  "alt": "Celcom Life App",
+                  "url": "/uploads/pages/work/cla--2.png"
+                }
+              }
+            ]
+          }
+        }, 
+        {
+          "id": 4,
+          "__component": "content.section",
+          "title": "Prisma Design System",
+          "subtitle": "Our design system helps us work together to build a great experience for all of Celcom’s products.",
+          "description": "Building products that people love is part of the good design foundations a good design system by creating great experiences for our customer, everyone needs to contribute to creating high-quality products that inspire customers, but to achieve all of this we need to have a strong foundations within the teams across the business, everything is a little piece to the puzzle.<br />&nbsp;<br />From typography, layouts and grids, colours, icons, components and coding conventions, to voice and tone, style-guide, documentation, a design system is bringing all of these together in a way that allows your entire team to learn, build, and grow…",
+          "linkText": "Access the design system",
+          "linkUrl": "/work",
+          "image": {
+            "data": [
+              {
+                "id": 4,
+                "attributes": {
+                  "name": "prisma-components.png",
+                  "alt": "Prisma Components",
+                  "url": "/uploads/pages/work/prisma-components.png"
+                }
+              }
+            ]
+          }
+        }, 
+        {
+          "id": 5,
+          "__component": "content.section",
+          "title": "We@Celcom",
+          "subtitle": "",
+          "description": "We@Celcom is a mobile app that aims to cultivate digitisation of the Celcom community to promote greater staff integration and improve our ways of working.<br />&nbsp;<br />Exclusive to warga Celcom.",
+          "linkText": "Check it out now",
+          "linkUrl": "/work",
+          "image": {
+            "data": [
+              {
+                "id": 5,
+                "attributes": {
+                  "name": "we--1.png",
+                  "alt": "We@Celcom",
+                  "url": "/uploads/pages/work/we--1.png"
+                }
+              },
+              {
+                "id": 6,
+                "attributes": {
+                  "name": "we--2.png",
+                  "alt": "We@Celcom",
+                  "url": "/uploads/pages/work/we--2.png"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "meta": {}
+}

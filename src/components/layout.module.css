@@ -1,0 +1,272 @@
+/* Layout */
+:global(html),
+:global(body),
+:global(#___gatsby) {
+  height: 100%;
+}
+
+:global(#gatsby-focus-wrapper) {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 100%;
+}
+
+.main {
+  margin-top: 6rem;
+}
+
+.overlay {
+  margin-bottom: -15rem;
+}
+
+:global(.bg-slanted) {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 4rem;
+  padding-right: 0;
+  padding-bottom: 4rem;
+  padding-left: 0;
+  overflow: hidden;
+  z-index: 101;
+}
+
+:global(.bg-slanted:before) {
+  background-color: #f1f9ff;
+  transform: skewY(5deg);
+  transform-origin: top right;
+  content: ' ';
+  display: block;
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  bottom: 0;
+}
+
+:global(.bg-slanted:after) {
+  background-color: #f1f9ff;
+  transform: skewY(5deg);
+  transform-origin: bottom left;
+  content: ' ';
+  display: block;
+  height: 50%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}
+
+@media screen and (min-width: 992px) {
+  :global(.bg-slanted) {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+  }
+
+  .extra {
+    font-weight: 900 !important;
+    line-height: 1.0;
+  }
+}
+
+@media screen and (min-width: 1366px) {
+  .extra {
+    font-size: 6.25rem;
+  }
+
+  :global(.col-5) {
+    width: calc(100% / 5) !important;
+  }
+}
+
+/* Work Header Background */
+.peek {
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 4rem;
+  padding-right: 0;
+  padding-bottom: 4rem;
+  padding-left: 0;
+  overflow: hidden;
+}
+
+.peek:before {
+  background-color: #f1f9ff;
+  transform: skewY(20deg);
+  transform-origin: top left;
+  content: ' ';
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: 0;
+  bottom: 0;
+}
+
+.peek:after {
+  background-color: #f1f9ff;
+  transform: skewY(20deg);
+  transform-origin: top center;
+  content: ' ';
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 70px;
+}
+
+:global(.img-overlaid) {
+  position: absolute;
+  top: -16rem;
+  width: 100%;
+  z-index: -1001;
+}
+
+@media screen and (min-width: 992px) {
+  .peek:after {
+    top: 0;
+  }
+
+  :global(.img-overlaid) {
+    top: -20rem;
+  }
+}
+
+/* Bobalicious */
+:global(.container-move) {
+  position: absolute;
+  top: 96px;
+  left: 0;
+  background: transparent;
+  width: 100%;
+  height: 1080px;
+  border-radius: 4px;
+  overflow: hidden;
+  /* z-index: 1; */
+}
+
+:global(.part) {
+  position: absolute;
+}
+
+:global(.part__figure) {
+  transform: scale(.25);
+  -webkit-filter: blur(0);
+  filter: blur(0);
+}
+
+/* Header Animation */
+:global(.wrapper__animate) {
+  display: inline-block;
+  perspective: 300px;
+}
+
+:global(.animate__flip) {
+  display: inline-block;
+  position: relative;
+  top: 0;
+  left: 0;
+  transform-origin: 50% 100%;
+  transform: rotateX(90deg);
+  animation: flip-in 2.5s infinite;
+}
+
+@keyframes flip-in {
+  0% {
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+  25% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+  75% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+  80% {
+    transform: rotateX(-40deg);
+    opacity: 1;
+  }
+  95% {
+    transform: rotateX(90deg);
+    opacity: .25;
+  }
+  100% {
+    transform: rotateX(90deg);
+    opacity: 0;
+  }
+}
+
+/* Overflow - Hide scrollbar */
+:global(.scrollbar-hidden::-webkit-scrollbar) {
+  display: none;
+}
+
+:global(.scrollbar-hidden) {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/* Slick Slider */
+:global(.slick-slider .slick-slide:not(.slick-center)) {
+  transform: scale(0.9);
+}
+
+:global(.slick-slider .slick-slide:not(.slick-center) .card-text.small) {
+  opacity: 0;
+}
+
+:global(.slick-slide) {
+  transition: .4s;
+}
+
+:global(.slick-dots li) {
+  width: auto;
+  margin: 0 6px 0;
+}
+
+:global(.slick-dots li button:before) {
+  display: none;
+}
+
+:global(.slick-dots li button) {
+  background: #ccc !important;
+  width: 10px !important;
+  height: 10px !important;
+  margin-right: 0;
+  margin-left: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: 50% !important;
+}
+
+:global(.slick-dots li.slick-active button) {
+  background: #009bdf !important;
+  width: 1.5rem !important;
+  height: 10px !important;
+  padding-top: 0;
+  padding-bottom: 0;
+  border-radius: 100px !important;
+}
+
+/* React Rotating Cursor */
+:global(.react-rotating-text-cursor) {
+  animation: blinking-cursor 0.8s cubic-bezier(0.68, 0.01, 0.01, 0.99) 0s infinite;
+}
+ 
+@keyframes blinking-cursor {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

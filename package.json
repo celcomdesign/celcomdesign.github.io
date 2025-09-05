@@ -1,0 +1,40 @@
+{
+  "name": "celcomdesign",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Celcom Design is a cooperative effort led by a group of designers, writers, and developers at Celcom.",
+  "author": "Celcom Design",
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "deploy": "gatsby build && gh-pages -d public -b main",
+    "publish": "rm -rf node_modules/.cache/gh-pages && npm run deploy"
+  },
+  "dependencies": {
+    "@celcomdesign/bootstrap": "^4.6.1",
+    "@celcomdesign/iconography": "^2.1.1",
+    "@fontsource/lato": "^4.5.10",
+    "animate.css": "^4.1.1",
+    "gatsby": "^5.2.0",
+    "gatsby-plugin-image": "^3.3.0",
+    "gatsby-plugin-postcss": "^6.3.0",
+    "gatsby-plugin-sharp": "^5.3.0",
+    "gatsby-source-filesystem": "^5.3.0",
+    "gatsby-transformer-json": "^5.3.0",
+    "gatsby-transformer-sharp": "^5.3.0",
+    "postcss": "^8.4.20",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-rotating-text": "^1.4.1",
+    "react-select": "^5.7.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}

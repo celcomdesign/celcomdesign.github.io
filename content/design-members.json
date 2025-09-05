@@ -1,0 +1,2240 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "attributes": {
+        "firstName": "Roy",
+        "lastName": "Ong",
+        "leadRole": true,
+        "role": "Chief Customer Management & Digital Experience Officer",
+        "createdAt": "2022-03-16T02:34:20.577Z",
+        "updatedAt": "2022-05-27T03:45:30.214Z",
+        "publishedAt": "2022-03-16T02:34:29.482Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "leader-roy.png",
+              "alternativeText": "leader-roy.png",
+              "caption": "leader-roy.png",
+              "width": 903,
+              "height": 998,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_leader_roy_62933540eb.png",
+                  "hash": "small_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "small_leader-roy.png",
+                  "path": null,
+                  "size": 262.79,
+                  "width": 452,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_leader_roy_62933540eb.png",
+                  "hash": "medium_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "medium_leader-roy.png",
+                  "path": null,
+                  "size": 539.11,
+                  "width": 679,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_leader_roy_62933540eb.png",
+                  "hash": "thumbnail_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "thumbnail_leader-roy.png",
+                  "path": null,
+                  "size": 36.18,
+                  "width": 141,
+                  "height": 156
+                }
+              },
+              "hash": "leader_roy_62933540eb",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 224.8,
+              "url": "/uploads/leader_roy_62933540eb.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:34:04.443Z",
+              "updatedAt": "2022-03-16T02:34:04.443Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 14,
+            "attributes": {
+              "name": "leader-roy.png",
+              "alternativeText": "leader-roy.png",
+              "caption": "leader-roy.png",
+              "width": 903,
+              "height": 998,
+              "formats": {
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_leader_roy_62933540eb.png",
+                  "hash": "small_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "small_leader-roy.png",
+                  "path": null,
+                  "size": 262.79,
+                  "width": 452,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_leader_roy_62933540eb.png",
+                  "hash": "medium_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "medium_leader-roy.png",
+                  "path": null,
+                  "size": 539.11,
+                  "width": 679,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_leader_roy_62933540eb.png",
+                  "hash": "thumbnail_leader_roy_62933540eb",
+                  "mime": "image/png",
+                  "name": "thumbnail_leader-roy.png",
+                  "path": null,
+                  "size": 36.18,
+                  "width": 141,
+                  "height": 156
+                }
+              },
+              "hash": "leader_roy_62933540eb",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 224.8,
+              "url": "/uploads/leader_roy_62933540eb.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:34:04.443Z",
+              "updatedAt": "2022-03-16T02:34:04.443Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "firstName": "Lim Zee King",
+        "lastName": "",
+        "leadRole": true,
+        "role": "Head Of Design",
+        "createdAt": "2022-03-16T02:36:17.726Z",
+        "updatedAt": "2022-05-20T04:25:21.449Z",
+        "publishedAt": "2022-03-16T02:36:20.339Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 101,
+            "attributes": {
+              "name": "leader-zee.png",
+              "alternativeText": "leader-zee.png",
+              "caption": "leader-zee.png",
+              "width": 3908,
+              "height": 4986,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_leader_zee_3f303ea39d.png",
+                  "hash": "large_leader_zee_3f303ea39d",
+                  "mime": "image/png",
+                  "name": "large_leader-zee.png",
+                  "path": null,
+                  "size": 642.02,
+                  "width": 784,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_leader_zee_3f303ea39d.png",
+                  "hash": "small_leader_zee_3f303ea39d",
+                  "mime": "image/png",
+                  "name": "small_leader-zee.png",
+                  "path": null,
+                  "size": 181.49,
+                  "width": 392,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_leader_zee_3f303ea39d.png",
+                  "hash": "medium_leader_zee_3f303ea39d",
+                  "mime": "image/png",
+                  "name": "medium_leader-zee.png",
+                  "path": null,
+                  "size": 378.89,
+                  "width": 588,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_leader_zee_3f303ea39d.png",
+                  "hash": "thumbnail_leader_zee_3f303ea39d",
+                  "mime": "image/png",
+                  "name": "thumbnail_leader-zee.png",
+                  "path": null,
+                  "size": 24.03,
+                  "width": 122,
+                  "height": 156
+                }
+              },
+              "hash": "leader_zee_3f303ea39d",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 2280.28,
+              "url": "/uploads/leader_zee_3f303ea39d.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-05-20T04:25:09.504Z",
+              "updatedAt": "2022-05-20T04:25:09.504Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 16,
+            "attributes": {
+              "name": "zee-about.png",
+              "alternativeText": "zee-about.png",
+              "caption": "zee-about.png",
+              "width": 163,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_zee_about_f29c87853e.png",
+                  "hash": "thumbnail_zee_about_f29c87853e",
+                  "mime": "image/png",
+                  "name": "thumbnail_zee-about.png",
+                  "path": null,
+                  "size": 34.66,
+                  "width": 116,
+                  "height": 156
+                }
+              },
+              "hash": "zee_about_f29c87853e",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 20.16,
+              "url": "/uploads/zee_about_f29c87853e.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:36:13.104Z",
+              "updatedAt": "2022-03-16T02:36:13.104Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "firstName": "Vimal",
+        "lastName": "Palasekaran",
+        "leadRole": false,
+        "role": "Digital Content",
+        "createdAt": "2022-03-16T02:41:36.134Z",
+        "updatedAt": "2022-05-27T03:44:49.722Z",
+        "publishedAt": "2022-03-16T02:41:38.167Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 17,
+            "attributes": {
+              "name": "vimal.png",
+              "alternativeText": "vimal.png",
+              "caption": "vimal.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_vimal_00bd2d5c43.png",
+                  "hash": "large_vimal_00bd2d5c43",
+                  "mime": "image/png",
+                  "name": "large_vimal.png",
+                  "path": null,
+                  "size": 909.19,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_vimal_00bd2d5c43.png",
+                  "hash": "small_vimal_00bd2d5c43",
+                  "mime": "image/png",
+                  "name": "small_vimal.png",
+                  "path": null,
+                  "size": 250.98,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_vimal_00bd2d5c43.png",
+                  "hash": "medium_vimal_00bd2d5c43",
+                  "mime": "image/png",
+                  "name": "medium_vimal.png",
+                  "path": null,
+                  "size": 536.39,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_vimal_00bd2d5c43.png",
+                  "hash": "thumbnail_vimal_00bd2d5c43",
+                  "mime": "image/png",
+                  "name": "thumbnail_vimal.png",
+                  "path": null,
+                  "size": 29.26,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "vimal_00bd2d5c43",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 300.14,
+              "url": "/uploads/vimal_00bd2d5c43.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:41:06.653Z",
+              "updatedAt": "2022-03-16T02:41:06.653Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 18,
+            "attributes": {
+              "name": "vimal-about.png",
+              "alternativeText": "vimal-about.png",
+              "caption": "vimal-about.png",
+              "width": 163,
+              "height": 207,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_vimal_about_3b6b0327a8.png",
+                  "hash": "thumbnail_vimal_about_3b6b0327a8",
+                  "mime": "image/png",
+                  "name": "thumbnail_vimal-about.png",
+                  "path": null,
+                  "size": 37.03,
+                  "width": 123,
+                  "height": 156
+                }
+              },
+              "hash": "vimal_about_3b6b0327a8",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 21.67,
+              "url": "/uploads/vimal_about_3b6b0327a8.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:41:29.968Z",
+              "updatedAt": "2022-03-16T02:41:29.968Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "firstName": "Afni Ediantie",
+        "lastName": "Mahfodz",
+        "leadRole": false,
+        "role": "CX GTM",
+        "createdAt": "2022-03-16T02:42:44.532Z",
+        "updatedAt": "2022-03-18T08:34:39.167Z",
+        "publishedAt": "2022-03-16T02:42:45.936Z",
+        "color": "#009bdf",
+        "membersImage": {
+          "data": {
+            "id": 19,
+            "attributes": {
+              "name": "afni.png",
+              "alternativeText": "afni.png",
+              "caption": "afni.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_afni_96bda7e41b.png",
+                  "hash": "large_afni_96bda7e41b",
+                  "mime": "image/png",
+                  "name": "large_afni.png",
+                  "path": null,
+                  "size": 762.7,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_afni_96bda7e41b.png",
+                  "hash": "small_afni_96bda7e41b",
+                  "mime": "image/png",
+                  "name": "small_afni.png",
+                  "path": null,
+                  "size": 218.1,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_afni_96bda7e41b.png",
+                  "hash": "medium_afni_96bda7e41b",
+                  "mime": "image/png",
+                  "name": "medium_afni.png",
+                  "path": null,
+                  "size": 455.12,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_afni_96bda7e41b.png",
+                  "hash": "thumbnail_afni_96bda7e41b",
+                  "mime": "image/png",
+                  "name": "thumbnail_afni.png",
+                  "path": null,
+                  "size": 26.43,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "afni_96bda7e41b",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 244.18,
+              "url": "/uploads/afni_96bda7e41b.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:42:25.774Z",
+              "updatedAt": "2022-03-16T02:42:25.774Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 20,
+            "attributes": {
+              "name": "afni-about.png",
+              "alternativeText": "afni-about.png",
+              "caption": "afni-about.png",
+              "width": 180,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_afni_about_4a22705dd2.png",
+                  "hash": "thumbnail_afni_about_4a22705dd2",
+                  "mime": "image/png",
+                  "name": "thumbnail_afni-about.png",
+                  "path": null,
+                  "size": 35.96,
+                  "width": 128,
+                  "height": 156
+                }
+              },
+              "hash": "afni_about_4a22705dd2",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 22.74,
+              "url": "/uploads/afni_about_4a22705dd2.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T02:42:38.506Z",
+              "updatedAt": "2022-03-16T02:42:38.506Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "firstName": "Quenic ",
+        "lastName": "Lo",
+        "leadRole": false,
+        "role": "UI/UX Design",
+        "createdAt": "2022-03-16T03:11:26.032Z",
+        "updatedAt": "2022-03-16T03:11:27.242Z",
+        "publishedAt": "2022-03-16T03:11:27.235Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 21,
+            "attributes": {
+              "name": "quenic.png",
+              "alternativeText": "quenic.png",
+              "caption": "quenic.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_quenic_ef9e0e4e46.png",
+                  "hash": "large_quenic_ef9e0e4e46",
+                  "mime": "image/png",
+                  "name": "large_quenic.png",
+                  "path": null,
+                  "size": 866.47,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_quenic_ef9e0e4e46.png",
+                  "hash": "small_quenic_ef9e0e4e46",
+                  "mime": "image/png",
+                  "name": "small_quenic.png",
+                  "path": null,
+                  "size": 241.79,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_quenic_ef9e0e4e46.png",
+                  "hash": "medium_quenic_ef9e0e4e46",
+                  "mime": "image/png",
+                  "name": "medium_quenic.png",
+                  "path": null,
+                  "size": 513.19,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_quenic_ef9e0e4e46.png",
+                  "hash": "thumbnail_quenic_ef9e0e4e46",
+                  "mime": "image/png",
+                  "name": "thumbnail_quenic.png",
+                  "path": null,
+                  "size": 28.3,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "quenic_ef9e0e4e46",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 271.99,
+              "url": "/uploads/quenic_ef9e0e4e46.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:11:07.991Z",
+              "updatedAt": "2022-03-16T03:11:07.991Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 22,
+            "attributes": {
+              "name": "quenic-about.png",
+              "alternativeText": "quenic-about.png",
+              "caption": "quenic-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_quenic_about_f68c22a8de.png",
+                  "hash": "thumbnail_quenic_about_f68c22a8de",
+                  "mime": "image/png",
+                  "name": "thumbnail_quenic-about.png",
+                  "path": null,
+                  "size": 36.66,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "quenic_about_f68c22a8de",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 18.35,
+              "url": "/uploads/quenic_about_f68c22a8de.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:11:21.700Z",
+              "updatedAt": "2022-03-16T03:11:21.700Z"
+            }
+          }
+        },
+        "articles": {
+          "data": [
+            {
+              "id": 2,
+              "attributes": {
+                "title": "Transitioning from Graphic Design to UX Design: Is that for you?",
+                "createdAt": "2022-03-17T10:25:01.961Z",
+                "updatedAt": "2022-06-17T05:33:31.546Z",
+                "publishedAt": "2022-03-17T10:25:03.148Z"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": 8,
+      "attributes": {
+        "firstName": "Muhammad Aliff",
+        "lastName": "Ali Azizan",
+        "leadRole": false,
+        "role": "UI/UX Design",
+        "createdAt": "2022-03-16T03:14:39.317Z",
+        "updatedAt": "2022-03-16T03:14:40.282Z",
+        "publishedAt": "2022-03-16T03:14:40.278Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 25,
+            "attributes": {
+              "name": "aliff.png",
+              "alternativeText": "aliff.png",
+              "caption": "aliff.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_aliff_e358df74ce.png",
+                  "hash": "large_aliff_e358df74ce",
+                  "mime": "image/png",
+                  "name": "large_aliff.png",
+                  "path": null,
+                  "size": 691.53,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_aliff_e358df74ce.png",
+                  "hash": "small_aliff_e358df74ce",
+                  "mime": "image/png",
+                  "name": "small_aliff.png",
+                  "path": null,
+                  "size": 190.24,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_aliff_e358df74ce.png",
+                  "hash": "medium_aliff_e358df74ce",
+                  "mime": "image/png",
+                  "name": "medium_aliff.png",
+                  "path": null,
+                  "size": 405.92,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_aliff_e358df74ce.png",
+                  "hash": "thumbnail_aliff_e358df74ce",
+                  "mime": "image/png",
+                  "name": "thumbnail_aliff.png",
+                  "path": null,
+                  "size": 22.89,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "aliff_e358df74ce",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 256.54,
+              "url": "/uploads/aliff_e358df74ce.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:14:27.252Z",
+              "updatedAt": "2022-03-22T03:29:21.372Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 26,
+            "attributes": {
+              "name": "aliff-about.png",
+              "alternativeText": "aliff-about.png",
+              "caption": "aliff-about.png",
+              "width": 180,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_aliff_about_e986923296.png",
+                  "hash": "thumbnail_aliff_about_e986923296",
+                  "mime": "image/png",
+                  "name": "thumbnail_aliff-about.png",
+                  "path": null,
+                  "size": 40.17,
+                  "width": 128,
+                  "height": 156
+                }
+              },
+              "hash": "aliff_about_e986923296",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 25.82,
+              "url": "/uploads/aliff_about_e986923296.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:14:35.619Z",
+              "updatedAt": "2022-03-16T03:14:35.619Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 9,
+      "attributes": {
+        "firstName": "Ezzat Fyrdaus Liao",
+        "lastName": null,
+        "leadRole": false,
+        "role": "UI/UX Support",
+        "createdAt": "2022-03-16T03:15:26.589Z",
+        "updatedAt": "2022-03-16T03:15:27.596Z",
+        "publishedAt": "2022-03-16T03:15:27.592Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 27,
+            "attributes": {
+              "name": "ezzat.png",
+              "alternativeText": "ezzat.png",
+              "caption": "ezzat.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_ezzat_6dddfd39a9.png",
+                  "hash": "large_ezzat_6dddfd39a9",
+                  "mime": "image/png",
+                  "name": "large_ezzat.png",
+                  "path": null,
+                  "size": 575.8,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_ezzat_6dddfd39a9.png",
+                  "hash": "small_ezzat_6dddfd39a9",
+                  "mime": "image/png",
+                  "name": "small_ezzat.png",
+                  "path": null,
+                  "size": 163.42,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_ezzat_6dddfd39a9.png",
+                  "hash": "medium_ezzat_6dddfd39a9",
+                  "mime": "image/png",
+                  "name": "medium_ezzat.png",
+                  "path": null,
+                  "size": 340.64,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_ezzat_6dddfd39a9.png",
+                  "hash": "thumbnail_ezzat_6dddfd39a9",
+                  "mime": "image/png",
+                  "name": "thumbnail_ezzat.png",
+                  "path": null,
+                  "size": 21.7,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "ezzat_6dddfd39a9",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 183.4,
+              "url": "/uploads/ezzat_6dddfd39a9.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:15:17.125Z",
+              "updatedAt": "2022-03-16T03:15:17.125Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 28,
+            "attributes": {
+              "name": "ezzat-about.png",
+              "alternativeText": "ezzat-about.png",
+              "caption": "ezzat-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_ezzat_about_4de9829986.png",
+                  "hash": "thumbnail_ezzat_about_4de9829986",
+                  "mime": "image/png",
+                  "name": "thumbnail_ezzat-about.png",
+                  "path": null,
+                  "size": 51.32,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "ezzat_about_4de9829986",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 32.22,
+              "url": "/uploads/ezzat_about_4de9829986.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:15:24.408Z",
+              "updatedAt": "2022-03-16T03:15:24.408Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 10,
+      "attributes": {
+        "firstName": "Siti Nur'Aishah ",
+        "lastName": "Rahimin",
+        "leadRole": false,
+        "role": "UI/UX Design",
+        "createdAt": "2022-03-16T03:16:09.892Z",
+        "updatedAt": "2022-03-16T03:16:11.040Z",
+        "publishedAt": "2022-03-16T03:16:11.034Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 23,
+            "attributes": {
+              "name": "nuraishah.png",
+              "alternativeText": "nuraishah.png",
+              "caption": "nuraishah.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_nuraishah_a5c6e0fdd9.png",
+                  "hash": "large_nuraishah_a5c6e0fdd9",
+                  "mime": "image/png",
+                  "name": "large_nuraishah.png",
+                  "path": null,
+                  "size": 726.82,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_nuraishah_a5c6e0fdd9.png",
+                  "hash": "small_nuraishah_a5c6e0fdd9",
+                  "mime": "image/png",
+                  "name": "small_nuraishah.png",
+                  "path": null,
+                  "size": 199.37,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_nuraishah_a5c6e0fdd9.png",
+                  "hash": "medium_nuraishah_a5c6e0fdd9",
+                  "mime": "image/png",
+                  "name": "medium_nuraishah.png",
+                  "path": null,
+                  "size": 425.19,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_nuraishah_a5c6e0fdd9.png",
+                  "hash": "thumbnail_nuraishah_a5c6e0fdd9",
+                  "mime": "image/png",
+                  "name": "thumbnail_nuraishah.png",
+                  "path": null,
+                  "size": 23.47,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "nuraishah_a5c6e0fdd9",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 256.65,
+              "url": "/uploads/nuraishah_a5c6e0fdd9.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:12:53.123Z",
+              "updatedAt": "2022-03-16T03:12:53.123Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 24,
+            "attributes": {
+              "name": "aisyah-about.png",
+              "alternativeText": "aisyah-about.png",
+              "caption": "aisyah-about.png",
+              "width": 169,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_aisyah_about_4ca256f48f.png",
+                  "hash": "thumbnail_aisyah_about_4ca256f48f",
+                  "mime": "image/png",
+                  "name": "thumbnail_aisyah-about.png",
+                  "path": null,
+                  "size": 40.52,
+                  "width": 120,
+                  "height": 156
+                }
+              },
+              "hash": "aisyah_about_4ca256f48f",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 25.16,
+              "url": "/uploads/aisyah_about_4ca256f48f.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:13:05.214Z",
+              "updatedAt": "2022-03-16T03:13:05.214Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 11,
+      "attributes": {
+        "firstName": "Nik Nazzatul Munirah",
+        "lastName": null,
+        "leadRole": false,
+        "role": "HIPA UI/UX",
+        "createdAt": "2022-03-16T03:17:03.796Z",
+        "updatedAt": "2022-03-16T03:17:06.204Z",
+        "publishedAt": "2022-03-16T03:17:06.200Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 29,
+            "attributes": {
+              "name": "munirah.png",
+              "alternativeText": "munirah.png",
+              "caption": "munirah.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_munirah_6358b7e9c9.png",
+                  "hash": "large_munirah_6358b7e9c9",
+                  "mime": "image/png",
+                  "name": "large_munirah.png",
+                  "path": null,
+                  "size": 571.24,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_munirah_6358b7e9c9.png",
+                  "hash": "small_munirah_6358b7e9c9",
+                  "mime": "image/png",
+                  "name": "small_munirah.png",
+                  "path": null,
+                  "size": 171.21,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_munirah_6358b7e9c9.png",
+                  "hash": "medium_munirah_6358b7e9c9",
+                  "mime": "image/png",
+                  "name": "medium_munirah.png",
+                  "path": null,
+                  "size": 348.35,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_munirah_6358b7e9c9.png",
+                  "hash": "thumbnail_munirah_6358b7e9c9",
+                  "mime": "image/png",
+                  "name": "thumbnail_munirah.png",
+                  "path": null,
+                  "size": 22.57,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "munirah_6358b7e9c9",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 185.1,
+              "url": "/uploads/munirah_6358b7e9c9.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:16:55.034Z",
+              "updatedAt": "2022-03-16T03:16:55.034Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 30,
+            "attributes": {
+              "name": "munirah-about.png",
+              "alternativeText": "munirah-about.png",
+              "caption": "munirah-about.png",
+              "width": 176,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_munirah_about_842ba17353.png",
+                  "hash": "thumbnail_munirah_about_842ba17353",
+                  "mime": "image/png",
+                  "name": "thumbnail_munirah-about.png",
+                  "path": null,
+                  "size": 33.08,
+                  "width": 125,
+                  "height": 156
+                }
+              },
+              "hash": "munirah_about_842ba17353",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 20.96,
+              "url": "/uploads/munirah_about_842ba17353.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:17:01.378Z",
+              "updatedAt": "2022-03-16T03:17:01.378Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 12,
+      "attributes": {
+        "firstName": "Adam Hussain",
+        "lastName": null,
+        "leadRole": false,
+        "role": "HIPA UI/UX",
+        "createdAt": "2022-03-16T03:17:53.744Z",
+        "updatedAt": "2022-03-16T03:17:55.299Z",
+        "publishedAt": "2022-03-16T03:17:55.296Z",
+        "color": null,
+        "membersImage": {
+          "data": {
+            "id": 31,
+            "attributes": {
+              "name": "adam.png",
+              "alternativeText": "adam.png",
+              "caption": "adam.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_adam_8950f0237f.png",
+                  "hash": "large_adam_8950f0237f",
+                  "mime": "image/png",
+                  "name": "large_adam.png",
+                  "path": null,
+                  "size": 690.24,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_adam_8950f0237f.png",
+                  "hash": "small_adam_8950f0237f",
+                  "mime": "image/png",
+                  "name": "small_adam.png",
+                  "path": null,
+                  "size": 190.26,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_adam_8950f0237f.png",
+                  "hash": "medium_adam_8950f0237f",
+                  "mime": "image/png",
+                  "name": "medium_adam.png",
+                  "path": null,
+                  "size": 404.47,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_adam_8950f0237f.png",
+                  "hash": "thumbnail_adam_8950f0237f",
+                  "mime": "image/png",
+                  "name": "thumbnail_adam.png",
+                  "path": null,
+                  "size": 23.86,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "adam_8950f0237f",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 218.38,
+              "url": "/uploads/adam_8950f0237f.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:17:45.159Z",
+              "updatedAt": "2022-03-16T03:17:45.159Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 32,
+            "attributes": {
+              "name": "adam-about.png",
+              "alternativeText": "adam-about.png",
+              "caption": "adam-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_adam_about_f59e8924d2.png",
+                  "hash": "thumbnail_adam_about_f59e8924d2",
+                  "mime": "image/png",
+                  "name": "thumbnail_adam-about.png",
+                  "path": null,
+                  "size": 51.45,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "adam_about_f59e8924d2",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 31.68,
+              "url": "/uploads/adam_about_f59e8924d2.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-16T03:17:50.637Z",
+              "updatedAt": "2022-03-16T03:17:50.637Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 13,
+      "attributes": {
+        "firstName": "Fatashah",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:43:31.918Z",
+        "updatedAt": "2022-03-17T10:43:35.322Z",
+        "publishedAt": "2022-03-17T10:43:35.317Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 49,
+            "attributes": {
+              "name": "fatashah-about.jpeg",
+              "alternativeText": "fatashah-about.jpeg",
+              "caption": "fatashah-about.jpeg",
+              "width": 180,
+              "height": 227,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_fatashah_about_cb756f7b97.jpeg",
+                  "hash": "thumbnail_fatashah_about_cb756f7b97",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_fatashah-about.jpeg",
+                  "path": null,
+                  "size": 4.8,
+                  "width": 124,
+                  "height": 156
+                }
+              },
+              "hash": "fatashah_about_cb756f7b97",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 9.51,
+              "url": "/uploads/fatashah_about_cb756f7b97.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:43:27.391Z",
+              "updatedAt": "2022-03-17T10:43:27.391Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 14,
+      "attributes": {
+        "firstName": "Fareez",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:44:06.249Z",
+        "updatedAt": "2022-03-17T10:44:07.259Z",
+        "publishedAt": "2022-03-17T10:44:07.250Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 50,
+            "attributes": {
+              "name": "fareez-about.png",
+              "alternativeText": "fareez-about.png",
+              "caption": "fareez-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_fareez_about_4e654e5274.png",
+                  "hash": "thumbnail_fareez_about_4e654e5274",
+                  "mime": "image/png",
+                  "name": "thumbnail_fareez-about.png",
+                  "path": null,
+                  "size": 53.15,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "fareez_about_4e654e5274",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 24.03,
+              "url": "/uploads/fareez_about_4e654e5274.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:44:03.378Z",
+              "updatedAt": "2022-03-17T10:44:03.378Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 15,
+      "attributes": {
+        "firstName": "Fahmi",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:44:32.169Z",
+        "updatedAt": "2022-03-17T10:44:33.088Z",
+        "publishedAt": "2022-03-17T10:44:33.083Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 51,
+            "attributes": {
+              "name": "fahmi-about.jpeg",
+              "alternativeText": "fahmi-about.jpeg",
+              "caption": "fahmi-about.jpeg",
+              "width": 180,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_fahmi_about_91d5e22f70.jpeg",
+                  "hash": "thumbnail_fahmi_about_91d5e22f70",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_fahmi-about.jpeg",
+                  "path": null,
+                  "size": 3.26,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "fahmi_about_91d5e22f70",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 5.67,
+              "url": "/uploads/fahmi_about_91d5e22f70.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:44:29.693Z",
+              "updatedAt": "2022-03-17T10:44:29.693Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 16,
+      "attributes": {
+        "firstName": "Harith",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:44:57.242Z",
+        "updatedAt": "2022-03-17T10:44:58.106Z",
+        "publishedAt": "2022-03-17T10:44:58.102Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 52,
+            "attributes": {
+              "name": "harith-about.png",
+              "alternativeText": "harith-about.png",
+              "caption": "harith-about.png",
+              "width": 1125,
+              "height": 1416,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_harith_about_0613df5d51.png",
+                  "hash": "large_harith_about_0613df5d51",
+                  "mime": "image/png",
+                  "name": "large_harith-about.png",
+                  "path": null,
+                  "size": 92.06,
+                  "width": 794,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_harith_about_0613df5d51.png",
+                  "hash": "small_harith_about_0613df5d51",
+                  "mime": "image/png",
+                  "name": "small_harith-about.png",
+                  "path": null,
+                  "size": 34.35,
+                  "width": 397,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_harith_about_0613df5d51.png",
+                  "hash": "medium_harith_about_0613df5d51",
+                  "mime": "image/png",
+                  "name": "medium_harith-about.png",
+                  "path": null,
+                  "size": 61.24,
+                  "width": 596,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_harith_about_0613df5d51.png",
+                  "hash": "thumbnail_harith_about_0613df5d51",
+                  "mime": "image/png",
+                  "name": "thumbnail_harith-about.png",
+                  "path": null,
+                  "size": 5.59,
+                  "width": 123,
+                  "height": 156
+                }
+              },
+              "hash": "harith_about_0613df5d51",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 147.49,
+              "url": "/uploads/harith_about_0613df5d51.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:44:55.103Z",
+              "updatedAt": "2022-03-17T10:44:55.103Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 17,
+      "attributes": {
+        "firstName": "Nazri",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:45:29.194Z",
+        "updatedAt": "2022-03-17T10:45:30.225Z",
+        "publishedAt": "2022-03-17T10:45:30.221Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 53,
+            "attributes": {
+              "name": "nazri-about.jpeg",
+              "alternativeText": "nazri-about.jpeg",
+              "caption": "nazri-about.jpeg",
+              "width": 180,
+              "height": 236,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_nazri_about_0e69c2bd11.jpeg",
+                  "hash": "thumbnail_nazri_about_0e69c2bd11",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_nazri-about.jpeg",
+                  "path": null,
+                  "size": 5.19,
+                  "width": 119,
+                  "height": 156
+                }
+              },
+              "hash": "nazri_about_0e69c2bd11",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 10.45,
+              "url": "/uploads/nazri_about_0e69c2bd11.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:45:27.063Z",
+              "updatedAt": "2022-03-17T10:45:27.063Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 18,
+      "attributes": {
+        "firstName": "Aina",
+        "lastName": "Husna",
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:46:05.794Z",
+        "updatedAt": "2022-03-17T10:46:06.739Z",
+        "publishedAt": "2022-03-17T10:46:06.736Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 54,
+            "attributes": {
+              "name": "aina-about.jpeg",
+              "alternativeText": "aina-about.jpeg",
+              "caption": "aina-about.jpeg",
+              "width": 180,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_aina_about_7abbe60a3b.jpeg",
+                  "hash": "thumbnail_aina_about_7abbe60a3b",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_aina-about.jpeg",
+                  "path": null,
+                  "size": 4.35,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "aina_about_7abbe60a3b",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 8.13,
+              "url": "/uploads/aina_about_7abbe60a3b.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:46:04.045Z",
+              "updatedAt": "2022-03-17T10:46:04.045Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 19,
+      "attributes": {
+        "firstName": "Azwana",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:46:29.512Z",
+        "updatedAt": "2022-03-17T10:46:30.560Z",
+        "publishedAt": "2022-03-17T10:46:30.556Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 55,
+            "attributes": {
+              "name": "azwana-about.jpeg",
+              "alternativeText": "azwana-about.jpeg",
+              "caption": "azwana-about.jpeg",
+              "width": 180,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_azwana_about_708bda37e2.jpeg",
+                  "hash": "thumbnail_azwana_about_708bda37e2",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_azwana-about.jpeg",
+                  "path": null,
+                  "size": 3.01,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "azwana_about_708bda37e2",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 5.53,
+              "url": "/uploads/azwana_about_708bda37e2.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:46:27.465Z",
+              "updatedAt": "2022-03-17T10:46:27.465Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 20,
+      "attributes": {
+        "firstName": "Asreena",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:47:04.098Z",
+        "updatedAt": "2022-03-17T10:47:04.979Z",
+        "publishedAt": "2022-03-17T10:47:04.973Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 56,
+            "attributes": {
+              "name": "asreena-about.png",
+              "alternativeText": "asreena-about.png",
+              "caption": "asreena-about.png",
+              "width": 975,
+              "height": 1222,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_asreena_about_982f4527c7.png",
+                  "hash": "large_asreena_about_982f4527c7",
+                  "mime": "image/png",
+                  "name": "large_asreena-about.png",
+                  "path": null,
+                  "size": 105.51,
+                  "width": 798,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_asreena_about_982f4527c7.png",
+                  "hash": "small_asreena_about_982f4527c7",
+                  "mime": "image/png",
+                  "name": "small_asreena-about.png",
+                  "path": null,
+                  "size": 35.12,
+                  "width": 399,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_asreena_about_982f4527c7.png",
+                  "hash": "medium_asreena_about_982f4527c7",
+                  "mime": "image/png",
+                  "name": "medium_asreena-about.png",
+                  "path": null,
+                  "size": 67.08,
+                  "width": 598,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_asreena_about_982f4527c7.png",
+                  "hash": "thumbnail_asreena_about_982f4527c7",
+                  "mime": "image/png",
+                  "name": "thumbnail_asreena-about.png",
+                  "path": null,
+                  "size": 5.27,
+                  "width": 124,
+                  "height": 156
+                }
+              },
+              "hash": "asreena_about_982f4527c7",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 143.65,
+              "url": "/uploads/asreena_about_982f4527c7.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:47:01.942Z",
+              "updatedAt": "2022-03-17T10:47:01.942Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 21,
+      "attributes": {
+        "firstName": "Atikah",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:47:31.480Z",
+        "updatedAt": "2022-03-17T10:47:32.349Z",
+        "publishedAt": "2022-03-17T10:47:32.336Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 57,
+            "attributes": {
+              "name": "atikah-about.png",
+              "alternativeText": "atikah-about.png",
+              "caption": "atikah-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_atikah_about_585fead4a2.png",
+                  "hash": "thumbnail_atikah_about_585fead4a2",
+                  "mime": "image/png",
+                  "name": "thumbnail_atikah-about.png",
+                  "path": null,
+                  "size": 34.47,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "atikah_about_585fead4a2",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 16.76,
+              "url": "/uploads/atikah_about_585fead4a2.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:47:29.225Z",
+              "updatedAt": "2022-03-17T10:47:29.225Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 22,
+      "attributes": {
+        "firstName": "Hanim",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:47:55.903Z",
+        "updatedAt": "2022-03-17T10:47:56.630Z",
+        "publishedAt": "2022-03-17T10:47:56.627Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 58,
+            "attributes": {
+              "name": "Hanim.jpeg",
+              "alternativeText": "Hanim.jpeg",
+              "caption": "Hanim.jpeg",
+              "width": 180,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_Hanim_cfe7b3df18.jpeg",
+                  "hash": "thumbnail_Hanim_cfe7b3df18",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_Hanim.jpeg",
+                  "path": null,
+                  "size": 3.23,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "Hanim_cfe7b3df18",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 5.52,
+              "url": "/uploads/Hanim_cfe7b3df18.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:47:52.523Z",
+              "updatedAt": "2022-03-17T10:47:52.523Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 23,
+      "attributes": {
+        "firstName": "Nurin",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:48:22.233Z",
+        "updatedAt": "2022-06-02T06:56:43.292Z",
+        "publishedAt": "2022-03-17T10:48:23.200Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 108,
+            "attributes": {
+              "name": "nurin-about.png",
+              "alternativeText": "nurin-about.png",
+              "caption": "nurin-about.png",
+              "width": 2046,
+              "height": 2617,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_nurin_about_73bcce985a.png",
+                  "hash": "large_nurin_about_73bcce985a",
+                  "mime": "image/png",
+                  "name": "large_nurin-about.png",
+                  "path": null,
+                  "size": 507.13,
+                  "width": 782,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_nurin_about_73bcce985a.png",
+                  "hash": "small_nurin_about_73bcce985a",
+                  "mime": "image/png",
+                  "name": "small_nurin-about.png",
+                  "path": null,
+                  "size": 146.4,
+                  "width": 391,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_nurin_about_73bcce985a.png",
+                  "hash": "medium_nurin_about_73bcce985a",
+                  "mime": "image/png",
+                  "name": "medium_nurin-about.png",
+                  "path": null,
+                  "size": 300.76,
+                  "width": 586,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_nurin_about_73bcce985a.png",
+                  "hash": "thumbnail_nurin_about_73bcce985a",
+                  "mime": "image/png",
+                  "name": "thumbnail_nurin-about.png",
+                  "path": null,
+                  "size": 23.06,
+                  "width": 122,
+                  "height": 156
+                }
+              },
+              "hash": "nurin_about_73bcce985a",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 652.58,
+              "url": "/uploads/nurin_about_73bcce985a.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-06-02T06:56:06.527Z",
+              "updatedAt": "2022-06-02T06:56:06.527Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 24,
+      "attributes": {
+        "firstName": "Ainna",
+        "lastName": "Syuhada",
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:49:03.585Z",
+        "updatedAt": "2022-03-17T10:49:04.532Z",
+        "publishedAt": "2022-03-17T10:49:04.529Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 60,
+            "attributes": {
+              "name": "ainna-about.jpeg",
+              "alternativeText": "ainna-about.jpeg",
+              "caption": "ainna-about.jpeg",
+              "width": 1280,
+              "height": 1280,
+              "formats": {
+                "large": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/large_ainna_about_77071aff0c.jpeg",
+                  "hash": "large_ainna_about_77071aff0c",
+                  "mime": "image/jpeg",
+                  "name": "large_ainna-about.jpeg",
+                  "path": null,
+                  "size": 219.06,
+                  "width": 1000,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/small_ainna_about_77071aff0c.jpeg",
+                  "hash": "small_ainna_about_77071aff0c",
+                  "mime": "image/jpeg",
+                  "name": "small_ainna-about.jpeg",
+                  "path": null,
+                  "size": 64.72,
+                  "width": 500,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/medium_ainna_about_77071aff0c.jpeg",
+                  "hash": "medium_ainna_about_77071aff0c",
+                  "mime": "image/jpeg",
+                  "name": "medium_ainna-about.jpeg",
+                  "path": null,
+                  "size": 132.86,
+                  "width": 750,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_ainna_about_77071aff0c.jpeg",
+                  "hash": "thumbnail_ainna_about_77071aff0c",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_ainna-about.jpeg",
+                  "path": null,
+                  "size": 7.67,
+                  "width": 156,
+                  "height": 156
+                }
+              },
+              "hash": "ainna_about_77071aff0c",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 318.32,
+              "url": "/uploads/ainna_about_77071aff0c.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:49:01.646Z",
+              "updatedAt": "2022-03-17T10:49:01.646Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 25,
+      "attributes": {
+        "firstName": "Thava",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:49:29.074Z",
+        "updatedAt": "2022-03-17T10:49:30.001Z",
+        "publishedAt": "2022-03-17T10:49:29.996Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 61,
+            "attributes": {
+              "name": "thava-about.png",
+              "alternativeText": "thava-about.png",
+              "caption": "thava-about.png",
+              "width": 163,
+              "height": 221,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_thava_about_5b60e0c9ad.png",
+                  "hash": "thumbnail_thava_about_5b60e0c9ad",
+                  "mime": "image/png",
+                  "name": "thumbnail_thava-about.png",
+                  "path": null,
+                  "size": 37.98,
+                  "width": 115,
+                  "height": 156
+                }
+              },
+              "hash": "thava_about_5b60e0c9ad",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 24.94,
+              "url": "/uploads/thava_about_5b60e0c9ad.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:49:27.165Z",
+              "updatedAt": "2022-03-17T10:49:27.165Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 26,
+      "attributes": {
+        "firstName": "Yusri",
+        "lastName": null,
+        "leadRole": null,
+        "role": null,
+        "createdAt": "2022-03-17T10:49:47.567Z",
+        "updatedAt": "2022-03-17T10:49:49.161Z",
+        "publishedAt": "2022-03-17T10:49:49.154Z",
+        "color": null,
+        "membersImage": {
+          "data": null
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 62,
+            "attributes": {
+              "name": "yusri-about.jpeg",
+              "alternativeText": "yusri-about.jpeg",
+              "caption": "yusri-about.jpeg",
+              "width": 180,
+              "height": 240,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".jpeg",
+                  "url": "/uploads/thumbnail_yusri_about_c63bf10ac5.jpeg",
+                  "hash": "thumbnail_yusri_about_c63bf10ac5",
+                  "mime": "image/jpeg",
+                  "name": "thumbnail_yusri-about.jpeg",
+                  "path": null,
+                  "size": 4.15,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "yusri_about_c63bf10ac5",
+              "ext": ".jpeg",
+              "mime": "image/jpeg",
+              "size": 9.89,
+              "url": "/uploads/yusri_about_c63bf10ac5.jpeg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-03-17T10:49:45.258Z",
+              "updatedAt": "2022-03-17T10:49:45.258Z"
+            }
+          }
+        },
+        "articles": {
+          "data": []
+        }
+      }
+    },
+    {
+      "id": 27,
+      "attributes": {
+        "firstName": "Ryann",
+        "lastName": "Lim",
+        "leadRole": null,
+        "role": "UX Design Chapter",
+        "createdAt": "2022-05-23T01:14:06.506Z",
+        "updatedAt": "2022-06-02T01:30:31.382Z",
+        "publishedAt": "2022-05-23T01:14:38.767Z",
+        "color": "#793680",
+        "membersImage": {
+          "data": {
+            "id": 107,
+            "attributes": {
+              "name": "ryan.png",
+              "alternativeText": "ryan.png",
+              "caption": "ryan.png",
+              "width": 1000,
+              "height": 1180,
+              "formats": {
+                "large": {
+                  "ext": ".png",
+                  "url": "/uploads/large_ryan_cec4440225.png",
+                  "hash": "large_ryan_cec4440225",
+                  "mime": "image/png",
+                  "name": "large_ryan.png",
+                  "path": null,
+                  "size": 449.92,
+                  "width": 847,
+                  "height": 1000
+                },
+                "small": {
+                  "ext": ".png",
+                  "url": "/uploads/small_ryan_cec4440225.png",
+                  "hash": "small_ryan_cec4440225",
+                  "mime": "image/png",
+                  "name": "small_ryan.png",
+                  "path": null,
+                  "size": 144.31,
+                  "width": 424,
+                  "height": 500
+                },
+                "medium": {
+                  "ext": ".png",
+                  "url": "/uploads/medium_ryan_cec4440225.png",
+                  "hash": "medium_ryan_cec4440225",
+                  "mime": "image/png",
+                  "name": "medium_ryan.png",
+                  "path": null,
+                  "size": 281.17,
+                  "width": 636,
+                  "height": 750
+                },
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_ryan_cec4440225.png",
+                  "hash": "thumbnail_ryan_cec4440225",
+                  "mime": "image/png",
+                  "name": "thumbnail_ryan.png",
+                  "path": null,
+                  "size": 21.77,
+                  "width": 132,
+                  "height": 156
+                }
+              },
+              "hash": "ryan_cec4440225",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 139.5,
+              "url": "/uploads/ryan_cec4440225.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-05-31T03:04:14.992Z",
+              "updatedAt": "2022-05-31T03:04:14.992Z"
+            }
+          }
+        },
+        "membersIconImage": {
+          "data": {
+            "id": 104,
+            "attributes": {
+              "name": "ryan-about.png",
+              "alternativeText": "ryan-about.png",
+              "caption": "ryan-about.png",
+              "width": 165,
+              "height": 220,
+              "formats": {
+                "thumbnail": {
+                  "ext": ".png",
+                  "url": "/uploads/thumbnail_ryan_about_630117b498.png",
+                  "hash": "thumbnail_ryan_about_630117b498",
+                  "mime": "image/png",
+                  "name": "thumbnail_ryan-about.png",
+                  "path": null,
+                  "size": 14.98,
+                  "width": 117,
+                  "height": 156
+                }
+              },
+              "hash": "ryan_about_630117b498",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 8.08,
+              "url": "/uploads/ryan_about_630117b498.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2022-05-31T00:47:23.396Z",
+              "updatedAt": "2022-05-31T00:47:23.396Z"
+            }
+          }
+        },
+        "articles": {
+          "data": [
+            {
+              "id": 1,
+              "attributes": {
+                "title": "Celcom Life 3.0: A revamp project intended to kill 3 birds with one stone",
+                "createdAt": "2022-03-15T02:51:53.360Z",
+                "updatedAt": "2022-09-26T07:34:48.009Z",
+                "publishedAt": "2022-03-15T02:51:55.044Z"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": {
+      "page": 1,
+      "pageSize": 25,
+      "pageCount": 2,
+      "total": 28
+    }
+  }
+}

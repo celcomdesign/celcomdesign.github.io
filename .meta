@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "system/bootstrap": "https://gitlab.com/celcomdesign/system/bootstrap.git",
+    "system/iconography": "https://gitlab.com/celcomdesign/system/iconography.git",
+    "system/animation": "https://gitlab.com/celcomdesign/system/animation.git"
+  }
+}

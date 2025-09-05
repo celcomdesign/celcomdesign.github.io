@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": 4,
+    "attributes": {
+      "slug": "articles",
+      "site": "design.celcom.com.my",
+      "header": {
+        "__component": "header.text",
+        "title": "Articles",
+        "description": "Our thoughts & stories",
+        "featuredImage": {
+          "data": null
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.text",
+          "title": "I want to see",
+          "subtitle": "everything",
+          "description": ""
+        }
+      ]
+    }
+  }
+}

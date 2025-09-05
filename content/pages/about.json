@@ -1,0 +1,963 @@
+{
+  "data": {
+    "id": 3,
+    "attributes": {
+      "slug": "about",
+      "site": "design.celcom.com.my",
+      "header": {
+        "__component": "header.rotate",
+        "title": "We are&nbsp;",
+        "list": {
+          "data": [
+            {
+              "id": 1,
+              "item": "Designers"
+            },
+            {
+              "id": 2,
+              "item": "Developers"
+            },
+            {
+              "id": 3,
+              "item": "Copywriters"
+            }
+          ]
+        },
+        "description": "Our team consists of dreamers and doers. But most importantly, we nurture each other's ambitions and do the hard work in making our aspirations a reality.",
+        "featuredImage": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "pattern.png",
+              "alt": "Design Pattern",
+              "url": "/uploads/pages/work/pattern.png"
+            }
+          }
+        }
+      },
+      "content": [
+        {
+          "id": 1,
+          "__component": "content.list",
+          "title": "Strong values that <br />bring us together",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "id": 1,
+                "title": "Empathetic",
+                "description": "",
+                "list": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "item": "Customer first"
+                    },
+                    {
+                      "id": 2,
+                      "item": "Balancing stakeholders and users"
+                    },
+                    {
+                      "id": 3,
+                      "item": "People first"
+                    },
+                    {
+                      "id": 4,
+                      "item": "Understand customers’ pain points and complaint"
+                    },
+                    {
+                      "id": 5,
+                      "item": "Emotional support to others"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 2,
+                "title": "Simplicity",
+                "description": "",
+                "list": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "item": "Consistency"
+                    },
+                    {
+                      "id": 2,
+                      "item": "Does not complicate matters"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 3,
+                "title": "Passionate",
+                "description": "",
+                "list": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "item": "Driven"
+                    },
+                    {
+                      "id": 2,
+                      "item": "Love our work"
+                    },
+                    {
+                      "id": 3,
+                      "item": "Challenge status quo"
+                    },
+                    {
+                      "id": 4,
+                      "item": "Work as a team"
+                    },
+                    {
+                      "id": 5,
+                      "item": "Positive driven"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 4,
+                "title": "Accountable",
+                "description": "",
+                "list": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "item": "First time right"
+                    },
+                    {
+                      "id": 2,
+                      "item": "Speed of action"
+                    },
+                    {
+                      "id": 3,
+                      "item": "Productive"
+                    },
+                    {
+                      "id": 4,
+                      "item": "Do not wait"
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 5,
+                "title": "Structured",
+                "description": "",
+                "list": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "item": "Data driven"
+                    },
+                    {
+                      "id": 2,
+                      "item": "Insights driven"
+                    },
+                    {
+                      "id": 3,
+                      "item": "Process driven"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "__component": "content.caption",
+          "title": "Introducing Lim Zee King, <br />Head of Design",
+          "caption": "The only way into achieving awesome customer experience is to scale design by bringing the value of design upfront in the process, empowering the organization into customer first design mindset, this is a continuous and never-ending endeavour”",
+          "name": "Lim Zee King",
+          "designation": "Head of Design",
+          "image": {
+            "data": [
+              {
+                "id": 2,
+                "attributes": {
+                  "name": "zee-king.png",
+                  "alt": "Head of Design",
+                  "url": "/uploads/pages/about/intro--zee-king.png"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "__component": "content.list",
+          "title": "Creatives’ Spotlight",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "id": 1,
+                "name": "Vimal",
+                "role": "Digital Content",
+                "quote": "By providing a voice to Celcom’s online platforms, I humanise the interactions that our customers have with us on our digital channels. The reward for me is in the customers who continue to trust us to stay connected.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "vimal",
+                        "alt": "Vimal",
+                        "url": "/uploads/pages/about/spotlight--vimal.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 2,
+                "name": "Afni Ediantie",
+                "role": "CX GTM",
+                "quote": "The best way to control your customer experience is to intentionally create it”. I do not know who said that but intentionally creating great customer experience that distinguish us against competition is what I do here in Celcom.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "afni",
+                        "alt": "Afni",
+                        "url": "/uploads/pages/about/spotlight--afni.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 3,
+                "name": "Muhammad Aliff",
+                "role": "UI/UX Design",
+                "quote": "Our team is a purpose-driven chapter, using our strong values and beliefs to guide us in Celcom's strategies as well as our everyday decisions: to unlock the potential and opportunity and be inspired by it!",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "aliff",
+                        "alt": "Aliff",
+                        "url": "/uploads/pages/about/spotlight--aliff.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 4,
+                "name": "Ezzat Fyrdaus Liao",
+                "role": "UI/UX Support",
+                "quote": "Imagine UI/UX is a road from point A to point B, you don't want to be driving on a bumpy, long, confusing and dark road. A good example will be smooth, short, straightfoward and able to see the road clearly. I'm here to provide a simple solutions for Celcom's customers while they're on our digital platform and to always hear their voice.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ezzat",
+                        "alt": "Ezzat",
+                        "url": "/uploads/pages/about/spotlight--ezzat.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 5,
+                "name": "Siti Nur'Aishah",
+                "role": "UI/UX Design",
+                "quote": "To be a great designer, you need to look a little deeper into how people think & act.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "nuraishah",
+                        "alt": "Aishah",
+                        "url": "/uploads/pages/about/spotlight--nuraishah.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 6,
+                "name": "Nik Nazzatul Munirah",
+                "role": "HIPA UI/UX",
+                "quote": "Solving people’s problems is incredibly rewarding. There is always something exciting to look forward to.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "munirah",
+                        "alt": "Munirah",
+                        "url": "/uploads/pages/about/spotlight--munirah.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 7,
+                "name": "Adam Hussain",
+                "role": "HIPA UI/UX",
+                "quote": "I love the fact that we are encouraged to continuously learn, grow, and iterate. Everyone has been so welcoming and open to ideas, and it is clear that Celcom values and encourages a growth mindset in all that we do.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "adam",
+                        "alt": "Adam",
+                        "url": "/uploads/pages/about/spotlight--adam.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 8,
+                "name": "Nor Mizan",
+                "role": "UI/UX Design",
+                "quote": "I enjoy learning about the perspectives of other people and understanding human behaviours to help Celcom create better products through my research so that we can always put our customers as number one.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "mizan",
+                        "alt": "Mizan",
+                        "url": "/uploads/pages/about/spotlight--mizan.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 9,
+                "name": "Ryann",
+                "role": "UX Design Chapter",
+                "quote": "The essence of design is to shift apathetic behavior. Design is not only a profession, it is an initiative, it is a movement.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ryann",
+                        "alt": "Ryann",
+                        "url": "/uploads/pages/about/spotlight--ryann.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 10,
+                "name": "Quenic",
+                "role": "UI/UX Design",
+                "quote": "My role in Celcom is to find the right elements and put them together to create a seamless digital experience for our users. It's a dance that I enjoy, the components are chorus and the design system the choreographer.",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "quenic",
+                        "alt": "Quenic",
+                        "url": "/uploads/pages/about/spotlight--quenic.png"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "__component": "content.list",
+          "title": "Work hard, play harder",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "id": 1,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "design chapter",
+                        "alt": "Design Chapter",
+                        "url": "/uploads/pages/about/gallery--1.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 2,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ux research",
+                        "alt": "UX Research",
+                        "url": "/uploads/pages/about/gallery--2.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 3,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "designing",
+                        "alt": "Designing",
+                        "url": "/uploads/pages/about/gallery--3.jpg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 4,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "hipa developers",
+                        "alt": "HIPA Developers",
+                        "url": "/uploads/pages/about/gallery--4.jpg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 5,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "hipa fry-yay",
+                        "alt": "HIPA Fry-yay",
+                        "url": "/uploads/pages/about/gallery--5.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 6,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "design ideation",
+                        "alt": "Design Ideation",
+                        "url": "/uploads/pages/about/gallery--6.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": 7,
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "design secret santa",
+                        "alt": "Design Secret Santa",
+                        "url": "/uploads/pages/about/gallery--7.png"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "__component": "content.list",
+          "title": "We the people",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "title": "UI/UX Designer",
+                "description": "We spearhead the overall development of our products with designs shaped by the commitment to deliver the best experience for our customers."
+              },
+              {
+                "title": "UX Researcher",
+                "description": "We instill a human touch in our design development, through rigorous data collection, prioritising our customers’ needs every step of the way."
+              },
+              {
+                "title": "UX Writer",
+                "description": "We ideate and create engaging communication through various channels. We amplify the vision of our designs in clear, transparent and empathy-focused language."
+              },
+              {
+                "title": "Front End Developer",
+                "description": "We develop intuitive and user-centred products that enable meaningful interactions through a combination of design, tech, and programming."
+              },
+              {
+                "title": "Back End Developer",
+                "description": "We play an invisible yet indispensable role as we build and maintain the technology that makes Celcom’s vision possible. We provide a steady foundation to our platforms with a focus on maximising efficiency and performance."
+              },
+              {
+                "title": "DevOps Engineer",
+                "description": "We collaborate with various parties to make sure our products evolve and scale to keep our platforms sensitive to change."
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "__component": "content.list",
+          "title": "",
+          "description": "",
+          "list": {
+            "data": [
+              {
+                "name": "Zee",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "zee",
+                        "alt": "Zee",
+                        "url": "/uploads/pages/about/about--zee.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Vimal",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "vimal",
+                        "alt": "Vimal",
+                        "url": "/uploads/pages/about/about--vimal.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Afni",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "afnig",
+                        "alt": "Afni",
+                        "url": "/uploads/pages/about/about--afni.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Quenic",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "quenic",
+                        "alt": "Quenic",
+                        "url": "/uploads/pages/about/about--quenic.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Aliff",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "aliff",
+                        "alt": "Aliff",
+                        "url": "/uploads/pages/about/about--aliff.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Ezzat",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ezzat",
+                        "alt": "Ezzat",
+                        "url": "/uploads/pages/about/about--ezzat.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Aishah",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "aisyah",
+                        "alt": "Aishah",
+                        "url": "/uploads/pages/about/about--aisyah.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Munirah",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "munirah",
+                        "alt": "Munirah",
+                        "url": "/uploads/pages/about/about--munirah.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Adam",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "adam",
+                        "alt": "Adam",
+                        "url": "/uploads/pages/about/about--adam.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Fatashah",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "fatashah",
+                        "alt": "Fatashah",
+                        "url": "/uploads/pages/about/about--fatashah.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Fareez",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "fareez",
+                        "alt": "Fareez",
+                        "url": "/uploads/pages/about/about--fareez.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Fahmi",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "fahmi",
+                        "alt": "Fahmi",
+                        "url": "/uploads/pages/about/about--fahmi.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Harith",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "harith",
+                        "alt": "Harith",
+                        "url": "/uploads/pages/about/about--harith.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Nazri",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "nazri",
+                        "alt": "Nazri",
+                        "url": "/uploads/pages/about/about--nazri.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Ainahusna",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "aina",
+                        "alt": "Ainahusna",
+                        "url": "/uploads/pages/about/about--aina.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Azwana",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "azwana",
+                        "alt": "Azwana",
+                        "url": "/uploads/pages/about/about--azwana.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Asreena",
+                "image": {
+                  "data": [
+                      {
+                      "id": 1,
+                      "attributes": {
+                        "name": "asreena",
+                        "alt": "Asreena",
+                        "url": "/uploads/pages/about/about--asreena.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Atikah",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "atikah",
+                        "alt": "Atikah",
+                        "url": "/uploads/pages/about/about--atikah.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Hanim",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "hanim",
+                        "alt": "Hanim",
+                        "url": "/uploads/pages/about/about--hanim.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Nurin",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "nurin",
+                        "alt": "Nurin",
+                        "url": "/uploads/pages/about/about--nurin.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Ainna",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ainna",
+                        "alt": "Ainna",
+                        "url": "/uploads/pages/about/about--ainna.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Thava",
+                "image": {
+                  "data": [
+                      {
+                      "id": 1,
+                      "attributes": {
+                        "name": "thava",
+                        "alt": "Thava",
+                        "url": "/uploads/pages/about/about--thava.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Yusri",
+                "image": {
+                  "data": [
+                      {
+                      "id": 1,
+                      "attributes": {
+                        "name": "yusri",
+                        "alt": "Yusri",
+                        "url": "/uploads/pages/about/about--yusri.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Ryann",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "ryann",
+                        "alt": "Ryann",
+                        "url": "/uploads/pages/about/about--ryann.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Mizan",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "mizan",
+                        "alt": "Mizan",
+                        "url": "/uploads/pages/about/about--mizan.jpeg"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Nazhan",
+                "image": {
+                  "data": [
+                      {
+                      "id": 1,
+                      "attributes": {
+                        "name": "nazhan",
+                        "alt": "Nazhan",
+                        "url": "/uploads/pages/about/about--nazhan.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Sabri",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "sabri",
+                        "alt": "Sabri",
+                        "url": "/uploads/pages/about/about--sabri.png"
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "You",
+                "image": {
+                  "data": [
+                    {
+                      "id": 1,
+                      "attributes": {
+                        "name": "you",
+                        "alt": "We want you",
+                        "url": "https://i.pinimg.com/originals/75/ec/d9/75ecd9c68fc73e4475c381bd292e37aa.png"
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "meta": {}
+}
